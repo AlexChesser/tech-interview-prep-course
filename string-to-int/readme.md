@@ -96,3 +96,8 @@ Step 3: "-91283472332" ("91283472332" is read in)
 The parsed integer is -91283472332.
 Since -91283472332 is less than the lower bound of the range [-231, 231 - 1], the final result is clamped to -231 = -2147483648.
 ```
+
+## Constraints:
+
+0 <= s.length <= 200
+s consists of English letters (lower-case and upper-case), digits (0-9), ' ', '+', '-', and '.'.

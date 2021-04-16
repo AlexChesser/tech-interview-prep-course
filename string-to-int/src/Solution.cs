@@ -2,16 +2,6 @@
 using System.Linq;
 using System.Collections.Generic;
 
-
-// 1. Read in and ignore any leading whitespace.
-// 2. Check if the next character (if not already at the end of the string) is '-' or '+'. Read this character in if it is either. This determines if the final result is negative or positive respectively. Assume the result is positive if neither is present.
-// 3. Read in next the characters until the next non-digit charcter or the end of the input is reached. The rest of the string is ignored.
-// 4. Convert these digits into an integer (i.e. "123" -> 123, "0032" -> 32). If no digits were read, then the integer is 0. Change the sign as necessary (from step 2).
-// 5. If the integer is out of the 32-bit signed integer range [-231, 231 - 1], then clamp the integer so that it remains in the range. Specifically, integers less than -231 should be clamped to -231, and integers greater than 231 - 1 should be clamped to 231 - 1.
-// [-2147483648 to 2147483647].
-// 6. Return the integer as the final result.
-
-
 public class Solution {
     const string MIN_VALUE = "2147483648";
     const string MAX_VALUE = "2147483647";
@@ -28,11 +18,29 @@ public class Solution {
         for(int i = 0; i < s.Length; i++){
             check = s[i];
             if(digits.Count == 0){
-                if(char.IsWhiteSpace(check) || check == '+'){
+                if(char.IsWhiteSpace(check)){
+                    continue;
+                }
+                if(i == s.Length - 1 && (!char.IsNumber(check) || check == ZERO) ){
+                    return 0;   
+                }
+                if(check == ZERO && !char.IsNumber(s[i+1])){
+                    return 0;
+                }
+                if(check == ZERO){
                     continue;
                 }
                 if(check == '-'){
+                    if(!char.IsNumber(s[i+1])){
+                        return 0;
+                    }
                     IsNegative = true;
+                    continue;
+                }
+                if(check == '+' ){
+                    if(!char.IsNumber(s[i+1])){
+                        return 0;
+                    }
                     continue;
                 }
                 if(check < ZERO || check > NINE){
@@ -41,9 +49,15 @@ public class Solution {
             }
             if(char.IsNumber(check)){
                 digits.Add(check);
+                if(digits.Count > 10){
+                    return IsNegative ? int.MinValue : int.MaxValue; 
+                }
                 continue;
             }
             break;
+        }
+        if(digits.Count == 0){
+            return 0;
         }
         if(digits.Count <= 10){
             try{

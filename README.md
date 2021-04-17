@@ -71,3 +71,5 @@ This course is all about you, but a great idea would be to set your first-day-on
 ### [Week 4 - Special guest and Sorting](lessons/week-04.md)
 
 ### [Week 5 - Searching](lessons/week-05.md)
+
+Find a list of resources, links and notes regarding all aspects of the actual hiring process (as best we know) [HERE](interview-study-syllabus.md)

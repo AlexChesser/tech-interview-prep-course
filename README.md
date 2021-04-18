@@ -76,6 +76,19 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ## [Code Interview study guide calendar import tool](https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing)
 
-## [Live streaming location: "LGTM: shipit" on twitch](https://www.twitch.tv/lgtm_shipit)
+### [Code Interview study guide calendar import tool](https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing)
 
-## [Youtube channel: post livestream video archive](https://www.youtube.com/channel/UC1SKRYr2Emfbas-8ZA9GYng)
+### [Live streaming location: "LGTM: shipit" on twitch](https://www.twitch.tv/lgtm_shipit)
+
+### [Youtube channel: post livestream video archive](https://www.youtube.com/channel/UC1SKRYr2Emfbas-8ZA9GYng)
+
+## Course Notes and lessons
+
+### Week 0 - Choose a language
+
+**Homework**:
+
+1. Choose a big-tech company and do some research into the languages they use in production. Submit a comment with your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/1 try to check the existing comments to reduce duplication. The end goal of this assignment is to compile a validated list of the best languages to learn with respect to having the broadest appeal to big tech companies. These values will be compiled into a spreadsheet where we can gather stats on which are the most used by faang and which are the ones that are used by the companies you actually want.  The language you choose MAY be on the intersection of those lists.
+2. Search for a FAANG company online and find any published information about their company values. Share your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/2 again, check the list before you start to help avoid duplication of effort.  We're going to be looking to (again) find the overlaps while focussing on the values in place at the companies we're targetting.
+ 
+Start planning for the behavioral interviews in week 0 - every company has a motto, vision and set of values that they "secretly" look for in every interview. For example, one of amazon's values is "frugality" if you can start drilling the values of your target into your head in week zero, you should be haighly practised at surfacing samples of your matching behaviors by the time your interview rolls around.

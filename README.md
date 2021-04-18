@@ -1,25 +1,33 @@
 # coding-interview-practice
 
-For any code games out there, I prefer to work in my preferred IDE and paste in the solution. In order to preserve the work and share with potentially interested people I'm posting my work publicly.
+## preamble
 
-## how to use this repository
+This repo started as a personal project to store all of my algorithm practise tests in one place so I could share them with recruiters and hiring managers to *hopefully* offset any bad performance under a code interview situation.
 
-### As a hiring manager
+I pretty rapidly realized that I could share this a little more widely and build a study group and community around the greuling process I was about to get myself into. A code interview is a lot of work and a super big deal, but the ROI could be as much as 4 to 5 times your current annual salary. I figured I'd pivot to making this a *study group*.
 
-One possible use of this code repository is to pre-evaluate the algorithm practise I've done. Within each folder under challenges is a separate coding test. You can within github online look at the coding history tab to view the final code as well as the commits that got me there.
+Full credit where it is due: it was a throwaway line in Maya Bello's youtube video [ACE YOUR TECHNICAL INTERVIEW | How to stay motivated while studying for the technical interviews](https://www.youtube.com/watch?v=_biSddO8jw4) let's take a moment to give full credit to this wonderful woman who gave me my inspiration. Give her a like and subscribe! She is wonderful. I'm sure she'll appreciate it.
 
-![history tab sample](/images/github-history-tab.png)
+## ways to use this repository
 
 ### As a student
 
-**Update**: I've found an incredible guide on studying for the big tech code interview which comes with a 14 week plan. I've converted the original article into a spreadsheet that you can import into a Google calendar to set yourself on a self study course in prepping for your next big move.
+There are three main modalities I see for this path. 
 
-Note: you can now import the study guide into Google calendar and go at your own pace. https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing
+1. Follow along with me, join the live streams on twitch ask questions, participate in homework assignments. 
+2. Follow along in the youtube videos taht we upload per week after the livestreams https://www.youtube.com/channel/UC1SKRYr2Emfbas-8ZA9GYng these will be delayed, because I have a day job
+3. If you've joined later in the series, maybe the course is over all of the materials *should* be archived and accessible. You can pretend you're doing it live with us!
 
-I'll be streaming weekly meet-ups and discussion groups on http://twitch.tv/lgtm_shipit they'll probably also get uploaded to YouTube as well so you can follow along asynchronously. There will be more lesson plan development and homework! So please join me. We're learning together here and I'll need your help!
+### getting started as a student 
 
-Take the time to go through the interview study guide planning document to get a sense of the overall flow. Structure will have a recommneded path towards studying broken out into chapters of mastery. After which hopefully you will be ready to take a coding interview.
+In planning the course I  found an incredible guide on studying for the big tech code interview. It has an 14 week plan for what topic to study in each week. It'll be hard, it'll be gruelling even. There's nothing to say that you can't do the course twice. Nothing to say that you can't take an extra week. There are no grades, just an exam. Fortunately there are thousands of companies hiring developers so you can have as many re-takes as you want.
 
-I have every expeactions from the reading I've done that this can take from 4 months to a year to complete.
+I converted that original article into a spreadsheet which you can update one field on and import into a Google calendar.  It will set you a weekly reminder of the things that you're going to be learning for the week.
 
-Find a list of resources, links and notes regarding all aspects of the actual hiring process (as best we know) [HERE](interview-study-syllabus.md)
+This course is all about you, but a great idea would be to set your first-day-on-course as a TUESDAY because that is the day when I will be live streaming my progress on the course and setting assignments.  If you came along I'd love the chance to learn from you and you'll get the chance to ask questions of ME and the other community members who are doing this experience.
+
+## [Code Interview study guide calendar import tool](https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing)
+
+## [Live streaming location: "LGTM: shipit" on twitch](https://www.twitch.tv/lgtm_shipit)
+
+## [Youtube channel: post livestream video archive](https://www.youtube.com/channel/UC1SKRYr2Emfbas-8ZA9GYng)

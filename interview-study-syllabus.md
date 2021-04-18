@@ -4,6 +4,12 @@ This document is a work in progress and will contain all material related to a r
 
 ## external resources
 
+* **[codinginterview.com](https://www.codinginterview.com/)**: This appears to be a pretty slick website with infographic type sumamries of the coding interviews for various FAANG+ companies alongside detailed descriptions. Possibly the best, first resource for the grind of passing a FAANG+ interview process.
+
+* Seriously - this roadmap is amazing! https://www.codinginterview.com/interview-roadmap
+
+> If you do one thing, [use this roadmap](https://www.codinginterview.com/interview-roadmap)
+
 * <https://github.com/anushka23g/Complete-Placement-Preparation>
 
 This repo appears to have a number of PDFs that link to other pages. It's a little spammy feeling. Will probably delete this.
@@ -20,6 +26,7 @@ Video includes basic tips on getting noticed, however there additionally some pr
   * 40 to 100 hours prep. You MUST study. Consider it a marathon it is a LOT of work.
   * **FOR CODING INTERVEW**:
     * know syntax of languages, java/python/ruby/go/C#?
+      * Uber is known to hire across any language (reported in recent tech talk/hiring night)
     * know how memory mangement works
     * know common libraries and how THEY manage memory
     * Object Oriented Design
@@ -39,7 +46,6 @@ Video includes basic tips on getting noticed, however there additionally some pr
   * **LEADERSHIP PRINCIPLES**: (AMAZON) <https://www.amazon.jobs/en/principles>
   * **Google**: 100% committee nobody on your team.
 
-
 * Check out the various hiring guides:
   * [Google](https://careers.google.com/how-we-hire/)
   * [Amazon](https://www.amazon.jobs/en/landing_pages/interviewing-at-amazon)
@@ -47,4 +53,3 @@ Video includes basic tips on getting noticed, however there additionally some pr
 
 * Learn the "values" of your targetted company
   * [NETFLIX](https://jobs.netflix.com/culture)
-

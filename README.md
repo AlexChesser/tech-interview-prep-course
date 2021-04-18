@@ -14,6 +14,12 @@ I have been a professional software developer for over 20 years. I've been a Tec
 
 There are so many free resources out there that we can just compile them into one place we can build something that has a high probability of delivering the learning outcome of making **YOU** interview ready.
 
+## Defining FAANG+ and FAANGterview
+
+**FAANG** is an acronym which stands for Facebook-Apple-Amazon-Netflix-Google the + stands for everyone else (microsoft, snap, slack, spotify) we're specifically talking about big-tech engineering firms with a targetted global customer base. They're known for having epic perks, huge salaries and total compensation packages, but they also have some of the hardest and most interesting engineering problems in the world. The prestige and benefits of joining a FAANG are huge.
+
+**FANGterview** is a legendarily hard technology interview. Five 45 minute sessions without lunch, solving questions like "how many golf balls can you fit into a stadium?" and writing code-problems on a whiteboard. Very high stakes, very high reward. They've got a pretty bad reputation, but I've recently (personally) come round on reframing them and reframing the act of studying for them as being a valuable goal in its own right. 
+
 ## in defense of the FAANGterview
 
 Let's make this very clear. I have not passed a FAANG interview. I've only just recently discovered through self reflection that I've got a lot of anxiety around code interviews. I played the game for about 5 years of pretedning that I had no interest in participating in the cruel and arbitrary world of big-tech interviews. Now that I've looked at the coursework and compared to the salaries they pay vs. what the normal world pays... it makes a lot more sense.

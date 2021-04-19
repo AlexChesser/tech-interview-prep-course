@@ -8,7 +8,7 @@ I pretty rapidly realized that I could share this a little more widely and build
 
 Full credit where it is due: it was a throwaway line in Maya Bello's youtube video [ACE YOUR TECHNICAL INTERVIEW | How to stay motivated while studying for the technical interviews](https://www.youtube.com/watch?v=_biSddO8jw4) let's take a moment to give full credit to this wonderful woman who gave me my inspiration. Give her a like and subscribe! She is wonderful. I'm sure she'll appreciate it.
 
-## about the *cough* "Instructor"
+## about the Instructor
 
 I have been a professional software developer for over 20 years. I've been a Technical Architect in Toronto for the last 10. I've also got a bachelor of education and spent 5 years as a high school teacher. When I started out looking for a comprehensive course on how to pass the FAANG interview I realized that I'd probably rather just build something myself.
 

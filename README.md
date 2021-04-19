@@ -86,10 +86,23 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ### Week 0 - Choose a language
 
+**Learning Objectives**
+
+1. Understand the implications of language choice
+2. Understand the trade offs between languages in making your choice for your bigtech interview
+3. Be able to confidently decide on a language
+4. Understand the implications of the workplace culture you're targeting
+5. Reflect on the life that you want to have for yourself
+
+**Discussion**
+
+1. What are the benefits of choosing a language that you already know?
+2. What are the advantages of choosing a language your target already uses in production?
+
 **Homework**:
 
 1. Choose a big-tech company and do some research into the languages they use in production. Submit a comment with your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/1 try to check the existing comments to reduce duplication. The end goal of this assignment is to compile a validated list of the best languages to learn with respect to having the broadest appeal to big tech companies. These values will be compiled into a spreadsheet where we can gather stats on which are the most used by faang and which are the ones that are used by the companies you actually want.  The language you choose MAY be on the intersection of those lists.
 2. Search for a FAANG company online and find any published information about their company values. Share your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/2 again, check the list before you start to help avoid duplication of effort.  We're going to be looking to (again) find the overlaps while focussing on the values in place at the companies we're targetting.
-3. Optional: read some posts on https://www.teamblind.com/ about workplace cultures at your targetted shops. Make sure that they're the types of places that you want to be. Consider discussions about work life balance. Code interviews in big tech are said to be the hardest and most gruelling there are. The point of studying for the hardest of the hard code interviews may not even be to get the big tech job. If you can be confident in a Google interview there's every possiblity that you'll ace anywhere else in the world with your eyes closed.
+3. Optional (& warning super toxic website): read some posts on https://www.teamblind.com/ about workplace cultures at your targetted shops. Anonymous but validated posts by employees at the actual companies in question. Make sure that they're the types of places that you want to be. Consider discussions about work life balance. Code interviews in big tech are said to be the hardest and most gruelling there are. The point of studying for the hardest of the hard code interviews may not even be to get the big tech job. If you can be confident in a Google interview there's every possiblity that you'll ace anywhere else in the world with your eyes closed.
 
 Start planning for the behavioral interviews in week 0 - every company has a motto, vision and set of values that they "secretly" look for in every interview. For example, one of amazon's values is "frugality" if you can start drilling the values of your target into your head in week zero, you should be haighly practised at surfacing samples of your matching behaviors by the time your interview rolls around.

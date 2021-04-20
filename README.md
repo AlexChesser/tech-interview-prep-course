@@ -93,16 +93,21 @@ This course is all about you, but a great idea would be to set your first-day-on
 3. Be able to confidently decide on a language
 4. Understand the implications of the workplace culture you're targeting
 5. Reflect on the life that you want to have for yourself
+6. articulate your motivations for professional development
+7. Codify a set of goals for the program
 
 **Discussion**
 
 1. What are the benefits of choosing a language that you already know?
 2. What are the advantages of choosing a language your target already uses in production?
+3. 
 
 **Homework**:
 
 1. Choose a big-tech company and do some research into the languages they use in production. Submit a comment with your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/1 try to check the existing comments to reduce duplication. The end goal of this assignment is to compile a validated list of the best languages to learn with respect to having the broadest appeal to big tech companies. These values will be compiled into a spreadsheet where we can gather stats on which are the most used by faang and which are the ones that are used by the companies you actually want.  The language you choose MAY be on the intersection of those lists.
-2. Search for a FAANG company online and find any published information about their company values. Share your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/2 again, check the list before you start to help avoid duplication of effort.  We're going to be looking to (again) find the overlaps while focussing on the values in place at the companies we're targetting.
-3. Optional (& warning super toxic website): read some posts on https://www.teamblind.com/ about workplace cultures at your targetted shops. Anonymous but validated posts by employees at the actual companies in question. Make sure that they're the types of places that you want to be. Consider discussions about work life balance. Code interviews in big tech are said to be the hardest and most gruelling there are. The point of studying for the hardest of the hard code interviews may not even be to get the big tech job. If you can be confident in a Google interview there's every possiblity that you'll ace anywhere else in the world with your eyes closed.
+2. Research the mechanics of how your chosen language allocates memory at a system level
+  * consider sending a PR with a summary and research notes to help others [I've started some C# research here](memory-management.md) you might choose rust, golang, javascript, ruby, *whatever* it'd be super helpful to have that research be more accesisble.
+4. Search for a FAANG company online and find any published information about their company values. Share your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/2 again, check the list before you start to help avoid duplication of effort.  We're going to be looking to (again) find the overlaps while focussing on the values in place at the companies we're targetting.
+5. Optional (& warning super toxic website): read some posts on https://www.teamblind.com/ about workplace cultures at your targetted shops. Anonymous but validated posts by employees at the actual companies in question. Make sure that they're the types of places that you want to be. Consider discussions about work life balance. Code interviews in big tech are said to be the hardest and most gruelling there are. The point of studying for the hardest of the hard code interviews may not even be to get the big tech job. If you can be confident in a Google interview there's every possiblity that you'll ace anywhere else in the world with your eyes closed.
 
 Start planning for the behavioral interviews in week 0 - every company has a motto, vision and set of values that they "secretly" look for in every interview. For example, one of amazon's values is "frugality" if you can start drilling the values of your target into your head in week zero, you should be haighly practised at surfacing samples of your matching behaviors by the time your interview rolls around.

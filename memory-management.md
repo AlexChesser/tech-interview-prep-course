@@ -11,3 +11,8 @@
 
 * Learn how memory management works within your chosen language:
   * <https://docs.microsoft.com/en-us/aspnet/core/performance/memory?view=aspnetcore-5.0>
+
+## Memory Mangement in Javascript
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+* https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec

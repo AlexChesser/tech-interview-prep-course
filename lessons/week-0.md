@@ -27,6 +27,10 @@
 
 There's a lot of video content here, remember that you can watch or listen at 2x speed! Don't waste your time listening to people deliver information in slow-mode! You're here to work dammit!
 
+### Language reference
+
+* Douglas Crockford - very good javascript reference starting point. https://www.crockford.com/videos.html
+
 ### Refresher topics in memory
 
 * [Pointers](https://www.youtube.com/watch?v=XISnO2YhnsY)

@@ -1,4 +1,4 @@
-# coding-interview-practice
+# Big Tech Interview Preparation Course
 
 ## preamble
 

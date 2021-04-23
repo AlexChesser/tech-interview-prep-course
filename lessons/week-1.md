@@ -21,6 +21,9 @@ The second, delve deeper into the concept of professional self-reflection as a p
 
 ## Discussion questions
 
+1. If you're going to work in Big Tech do you need to be hyper-driven?
+1. Big-tech salaries are commensurate with practicing doctors and lawyers while taking months as opposed to decades to prepare for. No question really, I just think that's awesome and inspiring.
+
 ## Reading and Research
 
 ### Professional Development Plans

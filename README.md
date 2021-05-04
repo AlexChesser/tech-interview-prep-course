@@ -111,3 +111,6 @@ This course is all about you, but a great idea would be to set your first-day-on
 5. Optional (& warning super toxic website): read some posts on https://www.teamblind.com/ about workplace cultures at your targetted shops. Anonymous but validated posts by employees at the actual companies in question. Make sure that they're the types of places that you want to be. Consider discussions about work life balance. Code interviews in big tech are said to be the hardest and most gruelling there are. The point of studying for the hardest of the hard code interviews may not even be to get the big tech job. If you can be confident in a Google interview there's every possiblity that you'll ace anywhere else in the world with your eyes closed.
 
 Start planning for the behavioral interviews in week 0 - every company has a motto, vision and set of values that they "secretly" look for in every interview. For example, one of amazon's values is "frugality" if you can start drilling the values of your target into your head in week zero, you should be haighly practised at surfacing samples of your matching behaviors by the time your interview rolls around.
+### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-1.md)
+
+### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-2.md)

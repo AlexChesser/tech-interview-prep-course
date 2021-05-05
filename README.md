@@ -1,5 +1,7 @@
 # Big Tech Interview Preparation Course
 
+As promised in week 2, if you have any questions or want to reach out directly, you're welcome to do so! Open an issue on the repo, or email me at: `alex.chesser at gmail dot com`
+
 ## preamble
 
 This repo started as a personal project to store all of my algorithm practise tests in one place so I could share them with recruiters and hiring managers to *hopefully* offset any bad performance under a code interview situation.
@@ -63,3 +65,5 @@ This course is all about you, but a great idea would be to set your first-day-on
 ### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-1.md)
 
 ### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-2.md)
+
+### [Week 3 - Underpinning Heaps, Tries, Sorting, Searching](lessons/week-3.md)

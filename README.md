@@ -114,3 +114,5 @@ Start planning for the behavioral interviews in week 0 - every company has a mot
 ### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-1.md)
 
 ### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-2.md)
+
+### [Week 3 - Underpinning Heaps, Tries, Sorting, Searching](lessons/week-3.md)

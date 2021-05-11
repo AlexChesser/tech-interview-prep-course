@@ -9,6 +9,7 @@ The topics at hand for the next two weeks are: Complexity Analysis (a.k.a BigO),
 1. <https://btholt.github.io/four-semesters-of-cs/> from Rajat a text summary of the core CS concepts you're going to need for a tech career.
 1. <https://cs50.harvard.edu/college/2021/spring/> probably the best CS refresher course out there. Incredible production value (they have muppets!)
 1. <https://www.youtube.com/user/cs50tv> what's more - CS50 - has been running for years! There are easily hundreds of videos online. Especially nice are the "tracks" which are mini lectures in a series on a topic not covered by the main course.
+1. A document containing a heuristic for Big-O <../documents/competitive-programmers-handbook.pdf>
 
 ## Learning Objectives
 

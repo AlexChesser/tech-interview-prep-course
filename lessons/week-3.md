@@ -48,4 +48,4 @@ The topics at hand for the next two weeks are: Complexity Analysis (a.k.a BigO),
 
 ## Homework
 
-1. More ALGOS!
+1. Solve 6 easy and 2 medium algorithm problem in HackerRank or Leetcode. Adjust for your skill level and avialable time.

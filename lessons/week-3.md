@@ -10,6 +10,7 @@ The topics at hand for the next two weeks are: Complexity Analysis (a.k.a BigO),
 1. <https://cs50.harvard.edu/college/2021/spring/> probably the best CS refresher course out there. Incredible production value (they have muppets!)
 1. <https://www.youtube.com/user/cs50tv> what's more - CS50 - has been running for years! There are easily hundreds of videos online. Especially nice are the "tracks" which are mini lectures in a series on a topic not covered by the main course.
 1. A document containing a heuristic for Big-O <../documents/competitive-programmers-handbook.pdf>
+1. A DoorDash interview preparation article. Really valuable guidance and insight! <https://doordash.engineering/2021/04/12/technical-interview-preparation/>
 
 ## Learning Objectives
 

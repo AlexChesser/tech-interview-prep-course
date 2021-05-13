@@ -113,6 +113,10 @@ This course is all about you, but a great idea would be to set your first-day-on
 Start planning for the behavioral interviews in week 0 - every company has a motto, vision and set of values that they "secretly" look for in every interview. For example, one of amazon's values is "frugality" if you can start drilling the values of your target into your head in week zero, you should be haighly practised at surfacing samples of your matching behaviors by the time your interview rolls around.
 ### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-1.md)
 
-### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-2.md)
+### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-02.md)
 
-### [Week 3 - Underpinning Heaps, Tries, Sorting, Searching](lessons/week-3.md)
+### [Week 3 - Underpinning Heaps, Tries](lessons/week-03.md)
+
+### [Week 4 - Special guest and Sorting](lessons/week-04.md)
+
+### [Week 5 - Searching](lessons/week-05.md)

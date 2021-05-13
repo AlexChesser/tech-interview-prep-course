@@ -60,10 +60,14 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ## Course Notes and lessons
 
-### [Week 0 - Self Reflect & Choose a language](lessons/week-0.md)
+### [Week 0 - Self Reflect & Choose a language](lessons/week-00.md)
 
-### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-1.md)
+### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-01.md)
 
-### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-2.md)
+### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-02.md)
 
-### [Week 3 - Underpinning Heaps, Tries, Sorting, Searching](lessons/week-3.md)
+### [Week 3 - Underpinning Heaps, Tries](lessons/week-03.md)
+
+### [Week 4 - Special guest and Sorting](lessons/week-04.md)
+
+### [Week 5 - Searching](lessons/week-05.md)

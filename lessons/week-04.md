@@ -9,7 +9,7 @@ Trying to change the pace of learning. Deep diving on a single topic
 
 ## Discussion questions
 
-## Chatting with AMy Miller
+## Chatting with Amy Miller
 
 > The structure of what I see as the recruitment process as a whole is
 
@@ -38,13 +38,11 @@ Trying to change the pace of learning. Deep diving on a single topic
 
 ### Live chat with AMy Miller ~30 mintes (or as long as we're having fun!)
 
-### Sorting deep-dive
+### Practice Code Interviews
 
-1. TBD
-
-### Discussing specific solutions to algo questions
-
-1. TBD
+1. <https://www.youtube.com/watch?v=PIeiiceWe_w> a competitive engineer (49m)
+1. <https://www.youtube.com/watch?v=rw4s4M3hFfs> a "normal" engineer (60m)
+1. <https://www.youtube.com/watch?v=n3fZ04zL0T4> PRAMP interview with Nick White (peer to peer interviewing) <https://www.pramp.com/#/>
 
 ## Homework
 

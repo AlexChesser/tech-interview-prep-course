@@ -43,6 +43,8 @@ Trying to change the pace of learning. Deep diving on a single topic
 1. <https://www.youtube.com/watch?v=PIeiiceWe_w> a competitive engineer (49m)
 1. <https://www.youtube.com/watch?v=rw4s4M3hFfs> a "normal" engineer (60m)
 1. <https://www.youtube.com/watch?v=n3fZ04zL0T4> PRAMP interview with Nick White (peer to peer interviewing) <https://www.pramp.com/#/>
+1. <https://www.youtube.com/watch?v=vHKzIPwWQkg> Ben Awad - "easy interview"
+1. <https://www.youtube.com/watch?v=gnkrDse9QKc> Ben Awad - "React coding interview"
 
 ## Homework
 

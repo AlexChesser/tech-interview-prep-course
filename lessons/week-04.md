@@ -1,4 +1,4 @@
-# WEEK 4: Sorting
+# WEEK 4: Special Guest and Code Interview samples
 
 Trying to change the pace of learning. Deep diving on a single topic
 

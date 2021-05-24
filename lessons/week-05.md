@@ -55,9 +55,9 @@ These questions are typically not asked in interviews at big tech companies. Eve
 ## Discussion questions
 
 1. What courses on TPL could you take?
-  * linkedin learning
-  * O'Reilly online
-  * Overdrive audiobooks
+    * linkedin learning
+    * O'Reilly online
+    * Overdrive audiobooks
 1. External resources for Senior developers <https://dotnet.microsoft.com/learn/dotnet/architecture-guides>
 1. Note the multitude of ways to solve some problems
 
@@ -66,6 +66,10 @@ These questions are typically not asked in interviews at big tech companies. Eve
 1. Discuss library resources
 1. Point to MS docs on architecture
 1. Go through architecture documentation
+1. Check some Algorithm solutions
+    * <https://www.youtube.com/watch?v=2AdzmA1IC1k> easy - find a judge
+    * <https://www.youtube.com/watch?v=ZwDDLAeeBM0> easy - robber
+    * <https://www.youtube.com/watch?v=SA867FvqHrM> medium - rotate image
 
 ## Homework
 

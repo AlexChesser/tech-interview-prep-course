@@ -1,4 +1,4 @@
-# WEEK 4: Special Guest and Code Interview samples
+# WEEK 4: ~~Special Guest and~~ Code Interview samples
 
 Trying to change the pace of learning. Deep diving on a single topic
 
@@ -9,7 +9,7 @@ Trying to change the pace of learning. Deep diving on a single topic
 
 ## Discussion questions
 
-## Chatting with Amy Miller
+## ~~Chatting with Amy Miller~~
 
 > The structure of what I see as the recruitment process as a whole is
 
@@ -36,7 +36,7 @@ Trying to change the pace of learning. Deep diving on a single topic
 
 ## Lesson plan
 
-### Live chat with AMy Miller ~30 mintes (or as long as we're having fun!)
+### ~~Live chat with AMy Miller ~30 mintes (or as long as we're having fun!)~~
 
 ### Practice Code Interviews
 

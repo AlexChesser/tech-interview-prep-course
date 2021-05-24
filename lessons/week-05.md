@@ -6,7 +6,7 @@ These questions are typically not asked in interviews at big tech companies. Eve
 
 **Brush up your array skills with questions like:**
 
-* Remove Even Integers from Array
+* Remove Even Integers from Array - <https://leetcode.com/problems/remove-element/solution/>
 * Merge Two Sorted Arrays
 * First Non-Repeating Integer in an Array
 * Find Second Maximum Value in an Array
@@ -15,7 +15,7 @@ These questions are typically not asked in interviews at big tech companies. Eve
 
 * Find Length of Linked List
 * Search in Singly Linked List
-* Reverse a Linked List
+* Reverse a Linked List <https://leetcode.com/problems/reverse-linked-list/solution/>
 * Find Middle Value of Linked List
 
 **Brush up your Stack/Queue skills with questions like:**
@@ -39,25 +39,36 @@ These questions are typically not asked in interviews at big tech companies. Eve
 **Practice basic Trie Problems:**
 
 * Total number of words in Trie
-* Find all words stored in Trie
+* Find all words stored in Trie <https://leetcode.com/problems/implement-trie-prefix-tree/solution/>
 
 **Practice basic Heap problems:**
 
-* Find k smallest elements in a list
+* Find k smallest elements in a list <https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/>
 * Find k largest elements in an array
 
 ## Learning Objectives
 
-1. TBD
+1. Be aware of Toronto Public Library resources on programming
+1. Evaluate the select algorithm solutions. Understand the way we're expected to talk about them
+1. Discuss proactive networking strategies
 
 ## Discussion questions
 
-1. TBD
+1. What courses on TPL could you take?
+  * linkedin learning
+  * O'Reilly online
+  * Overdrive audiobooks
+1. External resources for Senior developers <https://dotnet.microsoft.com/learn/dotnet/architecture-guides>
+1. Note the multitude of ways to solve some problems
 
 ## Lesson plan
 
-1. TBD
+1. Discuss library resources
+1. Point to MS docs on architecture
+1. Go through architecture documentation
 
 ## Homework
 
-1. TBD
+1. Choose an audiobook from TPL (or local library if outside Toronto) 
+1. Check course list on linkedin learning choose one to start on
+1. Continue algorithm practice. Solve one a day.

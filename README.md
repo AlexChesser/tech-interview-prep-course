@@ -70,7 +70,7 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ### [Week 4 - Special guest and Sorting](lessons/week-04.md)
 
-### [Week 5 - Searching](lessons/week-05.md)
+### [Week 5 - Resources and Algorithm detail](lessons/week-05.md)
 
 This course is all about you, but a great idea would be to set your first-day-on-course as a TUESDAY because that is the day when I will be live streaming my progress on the course and setting assignments.  If you came along I'd love the chance to learn from you and you'll get the chance to ask questions of ME and the other community members who are doing this experience.
 

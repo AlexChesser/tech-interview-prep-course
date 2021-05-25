@@ -50,7 +50,7 @@ These questions are typically not asked in interviews at big tech companies. Eve
 
 1. Be aware of Toronto Public Library resources on programming
 1. Evaluate the select algorithm solutions. Understand the way we're expected to talk about them
-1. Discuss proactive networking strategies
+1. Discuss proactive networking strategies 
 
 ## Discussion questions
 
@@ -63,13 +63,14 @@ These questions are typically not asked in interviews at big tech companies. Eve
 
 ## Lesson plan
 
-1. Discuss library resources
+1. Discuss library resources <https://www.torontopubliclibrary.ca/>
 1. Point to MS docs on architecture
 1. Go through architecture documentation
 1. Check some Algorithm solutions
     * <https://www.youtube.com/watch?v=2AdzmA1IC1k> easy - find a judge
     * <https://www.youtube.com/watch?v=ZwDDLAeeBM0> easy - robber
     * <https://www.youtube.com/watch?v=SA867FvqHrM> medium - rotate image
+1. Consider trying to join the Rands leadership slack <https://randsinrepose.com/welcome-to-rands-leadership-slack/> 
 
 ## Homework
 

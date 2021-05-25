@@ -74,6 +74,6 @@ These questions are typically not asked in interviews at big tech companies. Eve
 
 ## Homework
 
-1. Choose an audiobook from TPL (or local library if outside Toronto) 
+1. Choose a book from TPL (or local library if outside Toronto) 
 1. Check course list on linkedin learning choose one to start on
 1. Continue algorithm practice. Solve one a day.

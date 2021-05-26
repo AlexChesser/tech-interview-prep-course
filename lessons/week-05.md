@@ -67,6 +67,7 @@ These questions are typically not asked in interviews at big tech companies. Eve
 1. Point to MS docs on architecture
 1. Go through architecture documentation
 1. Check some Algorithm solutions
+1. Notes for next time: draw out a solution to make this clear <https://leetcode.com/problems/remove-element/solution/>
     * <https://www.youtube.com/watch?v=2AdzmA1IC1k> easy - find a judge
     * <https://www.youtube.com/watch?v=ZwDDLAeeBM0> easy - robber
     * <https://www.youtube.com/watch?v=SA867FvqHrM> medium - rotate image

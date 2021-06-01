@@ -26,7 +26,8 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 
 ## Learning Objectives
 
-1. TBD
+1. Get inspired! (Checking out some developer stories)
+1. Follow more algorithm review
 
 ## Discussion questions
 
@@ -34,8 +35,21 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 
 ## Lesson plan
 
-1. TBD
+### Some inspiring stories
+
+1. Scott Moss <https://www.youtube.com/watch?v=930c343X1XE>
+1. Ish Shabazz <https://www.youtube.com/watch?v=M-7DQJbMapI> (first 8 minutes)
+1. Kevin Naughton Jr. <https://www.youtube.com/watch?v=tAQ-s90eaKQ>
+
+### More algorithms
+
+1. <https://www.youtube.com/watch?v=1YQmI7F9dJ0> longest common prefix
+1. <https://www.youtube.com/watch?v=Z_-h_mpDmeg> validate a binary search tree
+1. <https://www.youtube.com/watch?v=o8S2bO3pmO4> number of islands (graph)
+1. <https://www.youtube.com/watch?v=dP8CAXKISX0> intersection of arrays
+1. <https://www.youtube.com/watch?v=pD3cHFNyW2I> max length unique string (DFS, recursive)
 
 ## Homework
 
 1. Algos but with a timer!
+1. Consider joining a code interview service <https://thedailybyte.dev/?ref=lgtmshipit> 

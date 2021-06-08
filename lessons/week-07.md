@@ -1,4 +1,4 @@
-# WEEK 7: System Design Interviews
+# WEEK 7: System Design Interviews and Algos
 
 Now that you’ve been practicing more straightforward problems for a couple of weeks, it’s time to get real and start practicing harder questions that are more likely to be asked during coding interviews.
 

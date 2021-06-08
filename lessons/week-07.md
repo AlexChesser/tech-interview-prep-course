@@ -26,16 +26,15 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 
 ## Learning Objectives
 
-1. TBD
-
-## Discussion questions
-
-1. TBD
+1. Begin to have a sense of the exepctations and structure of the system design interview
+1. Pactice algorithm live coding
 
 ## Lesson plan
 
-1. TBD
+1. <https://www.youtube.com/watch?v=KYExYE_9nIY> Design Reddit's homepage - sytem design interview example
+1. <https://leetcode.com/problems/remove-linked-list-elements/> - very edge casey problem (30 minutes)
+1. <https://www.hackerrank.com/interview/interview-preparation-kit> - Hacker Rank Interview Prep Kit
 
 ## Homework
 
-1. TBD
+1. Practice

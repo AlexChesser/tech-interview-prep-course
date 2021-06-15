@@ -1,4 +1,4 @@
-# WEEK 12: System Design Interviews
+# WEEK 12: Object-oriented  design interviews
 
 **Some common questions include:**
 

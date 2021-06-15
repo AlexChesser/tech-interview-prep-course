@@ -1,4 +1,4 @@
-# WEEK 8: System Design Interviews
+# WEEK 8: Algorithm Feature Content
 
 Now that you’ve been practicing more straightforward problems for a couple of weeks, it’s time to get real and start practicing harder questions that are more likely to be asked during coding interviews.
 
@@ -34,7 +34,13 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 
 ## Lesson plan
 
-1. TBD
+1. <https://medium.com/double-pointer/review-of-grokking-comp-negotiation-in-tech-e78bdb375607> compensation course review / summary
+1. <https://www.educative.io/courses/grokking-the-coding-interview> intermediate algorithm patterns
+1. <https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews> advanced patterns
+1. <https://github.com/SeanPrashad/leetcode-patterns> leetcode patterns readme
+1. <https://seanprashad.com/leetcode-patterns/> leetcode partitioned by pattern
+1. <https://www.youtube.com/watch?v=VM1kmLrrN4Y> Brennan Fradelis - sliding window technique
+1. <https://www.youtube.com/watch?v=2LUQ6tBdGxo> Merge Intervals - DEEPTI TALESRA
 
 ## Homework
 

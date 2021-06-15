@@ -1,4 +1,4 @@
-# WEEK 8: Algorithm Feature Content
+# WEEK 8: Algorithm Patterns
 
 Now that you’ve been practicing more straightforward problems for a couple of weeks, it’s time to get real and start practicing harder questions that are more likely to be asked during coding interviews.
 

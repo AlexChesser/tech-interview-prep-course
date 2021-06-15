@@ -74,6 +74,10 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ### [Week 6 - Inspiration and (even more) Algorithm detail](lessons/week-06.md)
 
+### [Week 7 - System Design & Live Coding](lessons/week-07.md)
+
+### [Week 8 - Algorithm Patterns](lessons/week-08.md)
+
 This course is all about you, but a great idea would be to set your first-day-on-course as a TUESDAY because that is the day when I will be live streaming my progress on the course and setting assignments.  If you came along I'd love the chance to learn from you and you'll get the chance to ask questions of ME and the other community members who are doing this experience.
 
 ## [Code Interview study guide calendar import tool](https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing)
@@ -123,4 +127,8 @@ Start planning for the behavioral interviews in week 0 - every company has a mot
 
 ### [Week 5 - Searching](lessons/week-05.md)
 
-### [Week 6 - Searching](lessons/week-06.md)
+### [Week 6 - Algorithm Detail](lessons/week-06.md)
+
+### [Week 7 - System Design & Live Coding](lessons/week-07.md)
+
+### [Week 8 - Algorithm Patterns](lessons/week-08.md)

@@ -40,6 +40,7 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 1. <https://www.educative.io/courses/grokking-the-coding-interview> intermediate algorithm patterns
 1. <https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews> advanced patterns
 1. <https://github.com/SeanPrashad/leetcode-patterns> leetcode patterns readme
+1. <https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed> 14 patterns article
 1. <https://seanprashad.com/leetcode-patterns/> leetcode partitioned by pattern
 1. <https://www.youtube.com/watch?v=eS6PZLjoaq8> two pointers and a hash table
 1. <https://www.youtube.com/watch?v=VM1kmLrrN4Y> Brennan Fradelis - sliding window technique

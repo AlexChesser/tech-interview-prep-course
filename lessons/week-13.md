@@ -1,6 +1,5 @@
-# WEEK 13: System Design Interviews
+# WEEK 13: Behavioral Interviews
 
-behavioral Interviews
 This is the one that many think won’t matter, although this is the interview that sometimes matters the most. For example, at Amazon, culture is deeply rooted in their hiring process, where a “[Bar Raiser](https://www.aboutamazon.com/working-at-amazon/how-amazon-hires)” (someone who lives and breathes Amazon culture) can have the final say over you getting hired.
 
 The thinking for that is quite simple: if you have the right attitude, you can learn new skills so minor shortcomings in your coding or system design interviews can be overlooked. However, if a person seems to be dispassionate about the product or doesn’t look like a team player, they are probably not worth hiring even if they are great hackers.
@@ -31,7 +30,7 @@ Talk about some particularly crazy/difficult bugs that you encountered.
 
 ## Lesson plan
 
-1. TBD
+1. free course educative <https://www.educative.io/courses/grokking-the-behavioral-interview>
 
 ## Homework
 

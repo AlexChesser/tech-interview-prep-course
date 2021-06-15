@@ -26,7 +26,9 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 
 ## Learning Objectives
 
-1. TBD
+1. Compensation Course review
+1. Be aware of the types of common patterns foud in code interviews
+1. Be aware of some select solution archetypes
 
 ## Discussion questions
 
@@ -42,6 +44,8 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 1. <https://www.youtube.com/watch?v=eS6PZLjoaq8> two pointers and a hash table
 1. <https://www.youtube.com/watch?v=VM1kmLrrN4Y> Brennan Fradelis - sliding window technique
 1. <https://www.youtube.com/watch?v=2LUQ6tBdGxo> Merge Intervals - DEEPTI TALESRA
+1. <https://www.educative.io/courses/grokking-the-behavioral-interview> Behavioral interview course FREE
+
 
 ## Homework
 

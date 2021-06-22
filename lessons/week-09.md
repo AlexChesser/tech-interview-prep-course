@@ -23,8 +23,9 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 
 1. Again, consider the "where and how" aroud the work you want to do.
 2. Explore the world of "Manager Readmes" 
-3. Consider the value of "coding retreat" career breaks
-4. Be aware of the high level strategies for a system design interview
+3. Consider the value of creating a "coworker readme"
+4. Consider the value of "coding retreat" career breaks
+5. Be aware of the high level strategies for a system design interview
 
 ## Lesson plan
 

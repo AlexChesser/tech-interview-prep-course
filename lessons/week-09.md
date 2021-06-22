@@ -21,16 +21,28 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 
 ## Learning Objectives
 
-1. TBD
-
-## Discussion questions
-
-1. TBD
+1. Again, consider the "where and how" aroud the work you want to do.
+2. Explore the world of "Manager Readmes" 
+3. Consider the value of "coding retreat" career breaks
+4. Be aware of the high level strategies for a system design interview
 
 ## Lesson plan
 
-1. <https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view> System Design interview preparation (weeks 9 and 10).
+1. <https://kathkeating-cto.medium.com/does-trust-contribute-to-biased-hiring-12a3d3575087> Kath Keating's recent job search 
+2. <https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe>
+3. <https://www.recurse.com/> recurse center - coding retreat
+4. <https://www.youtube.com/watch?v=BqtjE8uoWik> Software Engineering Daily - interview with Recuse Center founder: Nick Bergson-Shilcock 
+5. <https://youtu.be/SBtn1hutR98?t=282> RC interview (time set to overview) ~8 minutes
+6. <https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view> System Design interview preparation (weeks 9 and 10) - big list.
+7. 11. <https://www.youtube.com/c/sudoCODE/videos> sudoCODE channel
+8. <https://www.youtube.com/c/ExponentTV/videos> - the first 5 minutes of a system design interview: functional and non functional requirements (10 min)
+9. <https://www.youtube.com/watch?v=VBw703pjC3E> - capacity estimation (8 min)
+10. <https://www.youtube.com/watch?v=ySfpftMZnoU> - 5 mistakes in system design interviews (7 min)
+12. <https://www.youtube.com/c/interviewingio/videos> interviewing.io sample videos
+13. <https://www.youtube.com/c/ExponentTV/videos> Exponent Channel 
 
 ## Homework
 
-1. TBD
+**SUMMER BREAK! I'm going to be unavailable next week on Tuesday night so it's a good week for independant study!
+Week 10 will resume on July 6th.**
+

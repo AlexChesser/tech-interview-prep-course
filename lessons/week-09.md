@@ -52,3 +52,5 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 **SUMMER BREAK! I'm going to be unavailable next week on Tuesday night so it's a good week for independant study!
 Week 10 will resume on July 6th.**
 
+CAP theorom
+

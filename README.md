@@ -60,6 +60,9 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ## Course Notes and lessons
 
+
+## Course Notes and lessons
+
 ### [Week 0 - Self Reflect & Choose a language](lessons/week-00.md)
 
 ### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-01.md)
@@ -73,63 +76,6 @@ This course is all about you, but a great idea would be to set your first-day-on
 ### [Week 5 - Resources and Algorithm detail](lessons/week-05.md)
 
 ### [Week 6 - Inspiration and (even more) Algorithm detail](lessons/week-06.md)
-
-### [Week 7 - System Design & Live Coding](lessons/week-07.md)
-
-### [Week 8 - Algorithm Patterns](lessons/week-08.md)
-
-### [Week 9 - System Design](lessons/week-09.md)
-
-This course is all about you, but a great idea would be to set your first-day-on-course as a TUESDAY because that is the day when I will be live streaming my progress on the course and setting assignments.  If you came along I'd love the chance to learn from you and you'll get the chance to ask questions of ME and the other community members who are doing this experience.
-
-## [Code Interview study guide calendar import tool](https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing)
-
-### [Code Interview study guide calendar import tool](https://docs.google.com/spreadsheets/d/1PVcO4PfAp3Y9God8opvqXYntc_oU4x1beZ4UTv1juAI/edit?usp=sharing)
-
-### [Live streaming location: "LGTM: shipit" on twitch](https://www.twitch.tv/lgtm_shipit)
-
-### [Youtube channel: post livestream video archive](https://www.youtube.com/channel/UC1SKRYr2Emfbas-8ZA9GYng)
-
-## Course Notes and lessons
-
-### Week 0 - Choose a language
-
-**Learning Objectives**
-
-1. Understand the implications of language choice
-2. Understand the trade offs between languages in making your choice for your bigtech interview
-3. Be able to confidently decide on a language
-4. Understand the implications of the workplace culture you're targeting
-5. Reflect on the life that you want to have for yourself
-6. articulate your motivations for professional development
-7. Codify a set of goals for the program
-
-**Discussion**
-
-1. What are the benefits of choosing a language that you already know?
-2. What are the advantages of choosing a language your target already uses in production?
-3. 
-
-**Homework**:
-
-1. Choose a big-tech company and do some research into the languages they use in production. Submit a comment with your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/1 try to check the existing comments to reduce duplication. The end goal of this assignment is to compile a validated list of the best languages to learn with respect to having the broadest appeal to big tech companies. These values will be compiled into a spreadsheet where we can gather stats on which are the most used by faang and which are the ones that are used by the companies you actually want.  The language you choose MAY be on the intersection of those lists.
-2. Research the mechanics of how your chosen language allocates memory at a system level
-  * consider sending a PR with a summary and research notes to help others [I've started some C# research here](memory-management.md) you might choose rust, golang, javascript, ruby, *whatever* it'd be super helpful to have that research be more accesisble.
-4. Search for a FAANG company online and find any published information about their company values. Share your findings here: https://github.com/AlexChesser/coding-interview-practice/issues/2 again, check the list before you start to help avoid duplication of effort.  We're going to be looking to (again) find the overlaps while focussing on the values in place at the companies we're targetting.
-5. Optional (& warning super toxic website): read some posts on https://www.teamblind.com/ about workplace cultures at your targetted shops. Anonymous but validated posts by employees at the actual companies in question. Make sure that they're the types of places that you want to be. Consider discussions about work life balance. Code interviews in big tech are said to be the hardest and most gruelling there are. The point of studying for the hardest of the hard code interviews may not even be to get the big tech job. If you can be confident in a Google interview there's every possiblity that you'll ace anywhere else in the world with your eyes closed.
-
-Start planning for the behavioral interviews in week 0 - every company has a motto, vision and set of values that they "secretly" look for in every interview. For example, one of amazon's values is "frugality" if you can start drilling the values of your target into your head in week zero, you should be haighly practised at surfacing samples of your matching behaviors by the time your interview rolls around.
-### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-1.md)
-
-### [Week 2 - Underpinning Algorithms and Data Structures](lessons/week-02.md)
-
-### [Week 3 - Underpinning Heaps, Tries](lessons/week-03.md)
-
-### [Week 4 - Special guest and Sorting](lessons/week-04.md)
-
-### [Week 5 - Searching](lessons/week-05.md)
-
-### [Week 6 - Algorithm Detail](lessons/week-06.md)
 
 ### [Week 7 - System Design & Live Coding](lessons/week-07.md)
 

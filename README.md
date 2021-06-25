@@ -60,9 +60,6 @@ This course is all about you, but a great idea would be to set your first-day-on
 
 ## Course Notes and lessons
 
-
-## Course Notes and lessons
-
 ### [Week 0 - Self Reflect & Choose a language](lessons/week-00.md)
 
 ### [Week 1 - Learning Language Details & Professional Development Plan](lessons/week-01.md)

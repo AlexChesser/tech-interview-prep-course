@@ -21,7 +21,7 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 
 ## Learning Objectives
 
-1. TBD
+1. WELCOME BACK! (two week break)
 
 ## Discussion questions
 
@@ -30,6 +30,14 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 ## Lesson plan
 
 1. <https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view> System Design interview preparation (weeks 9 and 10).
+2. 
+3. <https://www.youtube.com/watch?v=fyn0CKPuPlA> negotiating your tech offer (30min)
+4. <https://www.youtube.com/watch?v=jp9u2H_b71Y> Shawn Achor - happiness is a competitive advantage (12min)
+5. <https://www.youtube.com/watch?v=mNeXuCYiE0U> James Clear - atomic habits (24 min)
+6. <https://youtu.be/aLu3NazBbLw?t=243> the first 90 days (55 min)
+7. <https://youtu.be/xY7UJVYM9n0?t=313> what got you here won't get you there (48 minutes)
+8. <https://www.youtube.com/watch?v=P_-VRPzo_-U> what got you there... (7 minute review)
+
 
 ## Homework
 

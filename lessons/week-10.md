@@ -31,7 +31,7 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 
 1. <https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view> System Design interview preparation (weeks 9 and 10).
 3. <https://www.youtube.com/watch?v=fyn0CKPuPlA> negotiating your tech offer (30min)
-4. <https://fearlesssalarynegotiation.com/> fearless salary negotiation full site
+4. <https://fearlesssalarynegotiation.com/book/> fearless salary negotiation free version
 5. <https://fearlesssalarynegotiation.com/download/FearlessSalaryNegotiation_Negotiate_Sample.pdf>[fearless salary negotiation sample]
 6. <https://www.youtube.com/watch?v=jp9u2H_b71Y> Shawn Achor - happiness is a competitive advantage (12min)
 7. <https://www.youtube.com/watch?v=mNeXuCYiE0U> James Clear - atomic habits (24 min)

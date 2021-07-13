@@ -30,7 +30,6 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 ## Lesson plan
 
 1. <https://drive.google.com/file/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/view> System Design interview preparation (weeks 9 and 10).
-2. 
 3. <https://www.youtube.com/watch?v=fyn0CKPuPlA> negotiating your tech offer (30min)
 4. <https://www.youtube.com/watch?v=jp9u2H_b71Y> Shawn Achor - happiness is a competitive advantage (12min)
 5. <https://www.youtube.com/watch?v=mNeXuCYiE0U> James Clear - atomic habits (24 min)

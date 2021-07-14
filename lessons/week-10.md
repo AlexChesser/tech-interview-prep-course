@@ -38,6 +38,7 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 7. <https://www.youtube.com/watch?v=mNeXuCYiE0U> James Clear - atomic habits (24 min)
 10. <https://youtu.be/xY7UJVYM9n0?t=313> what got you here won't get you there (48 minutes)
 11. <https://www.youtube.com/watch?v=P_-VRPzo_-U> what got you there... (7 minute review)
+12. <https://toronto.overdrive.com/media/3469760> How Women Rise (a recreation of "what got you here" through a lens focused on women's career management.
 
 
 

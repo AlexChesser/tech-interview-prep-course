@@ -47,6 +47,10 @@ As part of your System Design Interviews, you are asked to design a “web-scale
 1. <https://www.meetup.com/Toronto-Software-Team-Lead-Meetup/> toronto leadership meetup
 2. <http://slack.torontojs.com/> toronto javascript slack
 
+## Resources
+
+1. <https://www.youtube.com/watch?v=tndzLznxq40> System Design content as recommended by Johsh!
+
 ## Homework
 
 **SUMMER BREAK! I'm going to be unavailable next week on Tuesday night so it's a good week for independant study!

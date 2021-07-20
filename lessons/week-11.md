@@ -19,10 +19,13 @@ Just like System Design interview questions — Multi-Threading and Concurrency 
 1. <https://www.youtube.com/watch?v=7ENFeb-J75k> Multithreading Code - Computerphile (15 min - advanced)
 2. <https://www.youtube.com/watch?v=Tn0u-IIBmtc> Multitasking, Multithreading, Multiprocessing (10 min)
 3. <https://www.youtube.com/watch?v=pWTtPnwialI> what is thread safety? (16 minutes)
-4. <https://www.youtube.com/watch?v=w9GP7MNbaRc> Distributed Systems Architecture InfoQ (41 minutes)
-5. <https://www.youtube.com/watch?v=9kKQ8uLK8mk> Laws of programming with Concurrency (50 minutes - way too smart! :) )
+4. <https://www.journaldev.com/1162/java-multithreading-concurrency-interview-questions-answers> threading interview questions
+5. <https://dzone.com/articles/top-15-java-multithreading-concurrency-interview-q> more threading interview question samples
+6. <https://www.youtube.com/watch?v=w9GP7MNbaRc> Distributed Systems Architecture InfoQ (41 minutes)
+7. <https://www.youtube.com/watch?v=9kKQ8uLK8mk> Laws of programming with Concurrency (50 minutes - way too smart! :) )
 
 
 ## Resources
 
 1. <https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ> Microsoft Research youtube channel
+2. 

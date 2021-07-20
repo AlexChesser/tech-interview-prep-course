@@ -14,6 +14,7 @@ Just like System Design interview questions — Multi-Threading and Concurrency 
 
 ## Lesson plan
 
+1. <https://youtu.be/3RvkfuXUv1c?t=323> why use a multi-processor system?
 1. <https://www.youtube.com/watch?v=0KAGazeMZ2o> Simple multithreading
 1. <https://www.youtube.com/watch?v=iKtvNJQoCNw> Lecture 1, unit 1: Introduction to Concurrency (12 minutes)
 1. <https://www.youtube.com/watch?v=7ENFeb-J75k> Multithreading Code - Computerphile (15 min - advanced)

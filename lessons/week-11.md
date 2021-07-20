@@ -8,16 +8,21 @@ Just like System Design interview questions — Multi-Threading and Concurrency 
 
 ## Learning Objectives
 
-1. TBD
-
-## Discussion questions
-
-1. TBD
+1. Be able to define Concurrency, Threading, Parallelism
+2. Be able to explain thread safety
+3. Consider the "paralells" between threads on a CPU and large scale distributed systems (ha ha)
 
 ## Lesson plan
 
-1. TBD
+1. <https://www.youtube.com/watch?v=0KAGazeMZ2o> Simple multithreading
+1. <https://www.youtube.com/watch?v=iKtvNJQoCNw> Lecture 1, unit 1: Introduction to Concurrency (12 minutes)
+1. <https://www.youtube.com/watch?v=7ENFeb-J75k> Multithreading Code - Computerphile (15 min - advanced)
+2. <https://www.youtube.com/watch?v=Tn0u-IIBmtc> Multitasking, Multithreading, Multiprocessing (10 min)
+3. <https://www.youtube.com/watch?v=pWTtPnwialI> what is thread safety? (16 minutes)
+4. <https://www.youtube.com/watch?v=w9GP7MNbaRc> Distributed Systems Architecture InfoQ (41 minutes)
+5. <https://www.youtube.com/watch?v=9kKQ8uLK8mk> Laws of programming with Concurrency (50 minutes - way too smart! :) )
 
-## Homework
 
-1. TBD
+## Resources
+
+1. <https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ> Microsoft Research youtube channel

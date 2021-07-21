@@ -30,4 +30,4 @@ Just like System Design interview questions — Multi-Threading and Concurrency 
 ## Resources
 
 1. <https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ> Microsoft Research youtube channel
-2. 
+2. <https://en.wikipedia.org/wiki/Flynn%27s_taxonomy> Flynn's taxonomy

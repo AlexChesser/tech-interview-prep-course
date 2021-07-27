@@ -20,12 +20,15 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 
 ## Lesson plan
 
-9. https://sourcemaking.com/design_patterns - Design Patterns
-1. https://www.youtube.com/watch?v=VCxNt2K7aVY Creational Design Patterns - Smok
-2. https://www.youtube.com/watch?v=5Va1fslNKEo Structural Design Patterns - Smok
-3. https://www.youtube.com/watch?v=lPsSL6_7NBg Structural Design Patterns -  Christopher Okhravi
-4. https://www.youtube.com/watch?v=boCjV6srOlA Behavioral Patterns 1 of 2 - Smok
-5. https://www.youtube.com/watch?v=2rqJV_JXuv8 Behavioral Patterns 2 of 2 - Smok
-6. https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc - Christopher Okhravi patterns playlist
-7. https://youtu.be/mym5m-GKG0Q?t=685 - Harvard Lecture Design Patterns
-10. https://www.youtube.com/watch?v=ptcHHXp1PEU - gui under the hood Computerphile
+1. https://www.youtube.com/watch?v=UI6lqHOVHic UML explained (10 min)
+1. https://sourcemaking.com/design_patterns - Design Patterns
+1. https://www.youtube.com/watch?v=l8CRl7fSw4g - Design Patterns: Introduction - Smok (10 min)
+1. https://www.youtube.com/watch?v=VCxNt2K7aVY Creational Design Patterns - Smok (16 min)
+1. https://www.youtube.com/watch?v=5Va1fslNKEo Structural Design Patterns - Smok (20 min)
+1. https://www.youtube.com/watch?v=lPsSL6_7NBg Structural Design Patterns -  Christopher Okhravi (36 min)
+1. https://www.youtube.com/watch?v=boCjV6srOlA Behavioral Patterns 1 of 2 - Smok (13)
+1. https://www.youtube.com/watch?v=2rqJV_JXuv8 Behavioral Patterns 2 of 2 - Smok (10)
+1. https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc - Christopher Okhravi patterns playlist (a million yeahs!)
+1. https://youtu.be/mym5m-GKG0Q?t=685 - Harvard Lecture Design Patterns
+2. https://youtu.be/bmSAYlu0NcY?t=141 - A philosophy of software design
+

@@ -12,7 +12,9 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 
 ## Learning Objectives
 
-1. TBD
+1. Gain exposure to opject oriented design patterns
+2. Understand the major categories of the same
+3. Gain exposure to "Philosophy of Software Design"
 
 ## Discussion questions
 
@@ -21,6 +23,7 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 ## Lesson plan
 
 
+1. https://www.youtube.com/watch?v=yJpivIXsSSU - APOSD book review
 1. https://youtu.be/bmSAYlu0NcY?t=141 - A philosophy of software design
 1. https://www.youtube.com/watch?v=1ONhXmQuWP8 Four pillars of OOP
 1. https://www.youtube.com/watch?v=UI6lqHOVHic UML explained (10 min)

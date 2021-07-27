@@ -20,7 +20,9 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 
 ## Lesson plan
 
+
 1. https://youtu.be/bmSAYlu0NcY?t=141 - A philosophy of software design
+1. https://www.youtube.com/watch?v=1ONhXmQuWP8 Four pillars of OOP
 1. https://www.youtube.com/watch?v=UI6lqHOVHic UML explained (10 min)
 1. https://sourcemaking.com/design_patterns - Design Patterns
 1. https://www.youtube.com/watch?v=l8CRl7fSw4g - Design Patterns: Introduction - Smok (10 min)

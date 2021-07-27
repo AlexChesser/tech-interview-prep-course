@@ -20,6 +20,7 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 
 ## Lesson plan
 
+1. https://youtu.be/bmSAYlu0NcY?t=141 - A philosophy of software design
 1. https://www.youtube.com/watch?v=UI6lqHOVHic UML explained (10 min)
 1. https://sourcemaking.com/design_patterns - Design Patterns
 1. https://www.youtube.com/watch?v=l8CRl7fSw4g - Design Patterns: Introduction - Smok (10 min)
@@ -30,5 +31,4 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 1. https://www.youtube.com/watch?v=2rqJV_JXuv8 Behavioral Patterns 2 of 2 - Smok (10)
 1. https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc - Christopher Okhravi patterns playlist (a million yeahs!)
 1. https://youtu.be/mym5m-GKG0Q?t=685 - Harvard Lecture Design Patterns
-2. https://youtu.be/bmSAYlu0NcY?t=141 - A philosophy of software design
 

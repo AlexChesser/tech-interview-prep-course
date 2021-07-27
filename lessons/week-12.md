@@ -38,3 +38,7 @@ In Object Oriented Design Questions, interviewers are looking for your understan
 14. https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc - Christopher Okhravi patterns playlist (a million yeahs!)
 15. https://youtu.be/mym5m-GKG0Q?t=685 - Harvard Lecture Design Patterns
 
+## Resources 
+
+1. https://web.stanford.edu/~ouster/cgi-bin/cs190-winter18/index.php - software course basis of Philosophy of Software Design
+2. https://toronto.overdrive.com/search?query=Talent+Is+Overrated Talent Is Overrated (book)

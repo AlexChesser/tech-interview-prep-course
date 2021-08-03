@@ -33,10 +33,10 @@ Talk about some particularly crazy/difficult bugs that you encountered.
 5. <https://www.educative.io/courses/grokking-the-behavioral-interview/qVq4o5xyYBG> Hypotheticals
 6. <https://www.educative.io/courses/grokking-the-behavioral-interview/B8z2ZnQ1Evk> Always Have Questions!
 7. <https://www.educative.io/courses/grokking-the-behavioral-interview/7A4LnMOwlM1> Sample questions to ask the interviewer
-8. <https://newageleadership.com/what-got-you-here-wont-get-you-there-marshall-goldsmith-book-summary/#Here_are_the_20_ineffective_habits_of_leaders_as_per_What_Got_You_Here_Wont_Get_You_There-Marshall_Goldsmith-Book_summary> 20 things that tank you
+8. <https://newageleadership.com/what-got-you-here-wont-get-you-there-marshall-goldsmith-book-summary/#Here_are_the_20_ineffective_habits_of_leaders_as_per_What_Got_You_Here_Wont_Get_You_There-Marshall_Goldsmith-Book_summary> 20 things that tank you (higher level leadership)
 9. <https://www.richardhughesjones.com/how-women-rise-summary/> 12 things that tank you (more common in women)
 10. <https://www.youtube.com/watch?v=GxCD7Q_qDpU> Google Behavioral Interview With A Tech YouTuber
-1. <https://www.youtube.com/watch?v=Yfs4kCG-nNA> - Software Engineering Job Tips From A Google Recruiter (Clement and Amy)
-11. <https://www.youtube.com/watch?v=1rAWA6CsAGU> - Negotiating your offer (Clement and Amy)
-12. <https://www.youtube.com/watch?v=IV30jAw7dxA> - How to Answer Behavioral Interview Questions Sample Answers
-13. <https://www.youtube.com/watch?v=ld0cvWnrVsU> - Cracking the Behavioral Interview for Software Developers
+1. <https://www.youtube.com/watch?v=Yfs4kCG-nNA> - Software Engineering Job Tips From A Google Recruiter (Clement and Amy) 
+11. <https://www.youtube.com/watch?v=1rAWA6CsAGU> - Negotiating your offer (Clement and Amy)  
+12. <https://www.youtube.com/watch?v=IV30jAw7dxA> - How to Answer Behavioral Interview Questions Sample Answers (7 min)
+13. <https://www.youtube.com/watch?v=ld0cvWnrVsU> - Cracking the Behavioral Interview for Software Developers (8 min)

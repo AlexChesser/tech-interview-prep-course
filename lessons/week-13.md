@@ -22,7 +22,8 @@ Talk about some particularly crazy/difficult bugs that you encountered.
 
 ## Learning Objectives
 
-1. No brilliant jerks!
+1. Have an understanding and plan aroud passing the behavioral interview
+2. Have an understanding of the requirements and expectations for professional behavior at higher levels of function
 
 ## Lesson plan
 

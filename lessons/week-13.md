@@ -22,11 +22,7 @@ Talk about some particularly crazy/difficult bugs that you encountered.
 
 ## Learning Objectives
 
-1. TBD
-
-## Discussion questions
-
-1. TBD
+1. No brilliant jerks!
 
 ## Lesson plan
 
@@ -42,8 +38,5 @@ Talk about some particularly crazy/difficult bugs that you encountered.
 10. <https://www.youtube.com/watch?v=GxCD7Q_qDpU> Google Behavioral Interview With A Tech YouTuber
 1. <https://www.youtube.com/watch?v=Yfs4kCG-nNA> - Software Engineering Job Tips From A Google Recruiter (Clement and Amy)
 11. <https://www.youtube.com/watch?v=1rAWA6CsAGU> - Negotiating your offer (Clement and Amy)
-12. 
-
-## Homework
-
-1. TBD
+12. <https://www.youtube.com/watch?v=IV30jAw7dxA> - How to Answer Behavioral Interview Questions Sample Answers
+13. <https://www.youtube.com/watch?v=ld0cvWnrVsU> - Cracking the Behavioral Interview for Software Developers

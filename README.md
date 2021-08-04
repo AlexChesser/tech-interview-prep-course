@@ -2,6 +2,15 @@
 
 As promised in week 2, if you have any questions or want to reach out directly, you're welcome to do so! Open an issue on the repo, or email me at: `alex.chesser at gmail dot com`
 
+## Live sessions have ended ... but you can watch them all back on YOUTUBE!
+
+Here's the full playlist of the 13 week journey we went through. Hopefully you'll find value in the process.
+
+https://www.youtube.com/watch?v=Uyqig7OzFiY&list=PLCKhabcnmWVcesWZaad7GStYzaV6mUYd2
+
+Please feel free to join us at the [Clean Architecture Book Club](https://github.com/AlexChesser/books-clean-architecture) starting August 9th
+
+
 ## preamble
 
 This repo started as a personal project to store all of my algorithm practise tests in one place so I could share them with recruiters and hiring managers to *hopefully* offset any bad performance under a code interview situation.

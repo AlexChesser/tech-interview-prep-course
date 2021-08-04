@@ -88,3 +88,11 @@ This course is all about you, but a great idea would be to set your first-day-on
 ### [Week 8 - Algorithm Patterns](lessons/week-08.md)
 
 ### [Week 9 - System Design](lessons/week-09.md)
+
+### [Week 10 - System Design](lessons/week-10.md)
+
+### [Week 11 - OS and concurrency](lessons/week-11.md)
+
+### [Week 12 - Object-oriented design interviews](lessons/week-12.md)
+
+### [Week 13 - Behavioral Interviews](lessons/week-13.md)

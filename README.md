@@ -96,3 +96,7 @@ This course is all about you, but a great idea would be to set your first-day-on
 ### [Week 12 - Object-oriented design interviews](lessons/week-12.md)
 
 ### [Week 13 - Behavioral Interviews](lessons/week-13.md)
+
+## What next?
+
+- Check out [Clean Architecture](https://github.com/AlexChesser/books-clean-architecture) a series of lessons on the content of Robert C Martin's classic book on the topic of system design.

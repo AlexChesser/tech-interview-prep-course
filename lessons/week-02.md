@@ -1,5 +1,7 @@
 # WEEK 2: Underpinning Algorithms
 
+[![Week ZERO Video](https://img.youtube.com/vi/B9sudEIId1s/0.jpg)](https://www.youtube.com/watch?v=B9sudEIId1s)
+
 The topics at hand for the next two weeks are: Complexity Analysis (a.k.a BigO), Arrays, Stacks, Queues, Linked List, Trees, Tries, Graphs (BFS and DFS), Hash Tables, Heaps, Sorting, Searching
 
 ## Learning Objectives

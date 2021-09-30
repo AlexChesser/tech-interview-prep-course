@@ -1,5 +1,7 @@
 # WEEK 1: Feature learning & Scheduling self-reflection
 
+[![Week ZERO Video](https://img.youtube.com/vi/PpCXkPPTaYk/0.jpg)](https://www.youtube.com/watch?v=PpCXkPPTaYk)
+
 This week has two main focuses.
 
 The first, in following the study-gude & roadmap to take the time to learn the syntax of basic commands you might be faced with in your code interview. Other than a brief overview, the work on that front will have to be your own.
@@ -39,7 +41,7 @@ The second, delve deeper into the concept of professional self-reflection as a p
 
 1. Sign up for leetcode, hackerrank and/or any other programming practise website
 1. Schedule a 1 hour weekly Professional Self Reflection session
-    * set a reminder on your phone
-    * ENGAGE in self review
-    * write down your goals
-    * enlist an accountabli-buddy to share your progress
+   - set a reminder on your phone
+   - ENGAGE in self review
+   - write down your goals
+   - enlist an accountabli-buddy to share your progress

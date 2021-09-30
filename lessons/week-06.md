@@ -1,5 +1,7 @@
 # WEEK 6: Timed practice
 
+[![Week ZERO Video](https://img.youtube.com/vi/oti89gTJjak/0.jpg)](https://www.youtube.com/watch?v=oti89gTJjak)
+
 Now that you’ve been practicing more straightforward problems for a couple of weeks, it’s time to get real and start practicing harder questions that are more likely to be asked during coding interviews.
 
 For practice and automated challenges along with interactive solutions, look at [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/collection/5668639101419520/5671464854355968)
@@ -14,13 +16,13 @@ Here are some guidelines to keep in mind as you solve these problems:
 
 **Here are some sample problems to consider:**
 
-* Implement Binary Search
-* Find the Intersection point of two linked lists
-* Reverse words in a sentence
-* Check if two binary trees are identical
-* Clone (deep copy) a directed graph
-* Find solutions to a Boggle game
-* Determine if there are any three integers in an array that sum equal to the given value.
+- Implement Binary Search
+- Find the Intersection point of two linked lists
+- Reverse words in a sentence
+- Check if two binary trees are identical
+- Clone (deep copy) a directed graph
+- Find solutions to a Boggle game
+- Determine if there are any three integers in an array that sum equal to the given value.
 
 You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and get stuck often — you will get the hang of it after a while. Trust me, questions that look impossible in the first few days start to seem easy after you’ve had practice.
 
@@ -52,4 +54,4 @@ You will have to spend 2–3 weeks here. Don’t worry if you hit roadblocks and
 ## Homework
 
 1. Algos but with a timer!
-1. Consider joining a code interview service <https://thedailybyte.dev/?ref=lgtmshipit> 
+1. Consider joining a code interview service <https://thedailybyte.dev/?ref=lgtmshipit>

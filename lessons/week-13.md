@@ -1,5 +1,7 @@
 # WEEK 13: Behavioral Interviews
 
+[![Week ZERO Video](https://img.youtube.com/vi/Uyqig7OzFiY/0.jpg)](https://www.youtube.com/watch?v=Uyqig7OzFiY)
+
 This is the one that many think won’t matter, although this is the interview that sometimes matters the most. For example, at Amazon, culture is deeply rooted in their hiring process, where a “[Bar Raiser](https://www.aboutamazon.com/working-at-amazon/how-amazon-hires)” (someone who lives and breathes Amazon culture) can have the final say over you getting hired.
 
 The thinking for that is quite simple: if you have the right attitude, you can learn new skills so minor shortcomings in your coding or system design interviews can be overlooked. However, if a person seems to be dispassionate about the product or doesn’t look like a team player, they are probably not worth hiring even if they are great hackers.
@@ -37,7 +39,7 @@ Talk about some particularly crazy/difficult bugs that you encountered.
 8. <https://newageleadership.com/what-got-you-here-wont-get-you-there-marshall-goldsmith-book-summary/#Here_are_the_20_ineffective_habits_of_leaders_as_per_What_Got_You_Here_Wont_Get_You_There-Marshall_Goldsmith-Book_summary> 20 things that tank you (higher level leadership)
 9. <https://www.richardhughesjones.com/how-women-rise-summary/> 12 things that tank you (more common in women)
 10. <https://www.youtube.com/watch?v=GxCD7Q_qDpU> Google Behavioral Interview With A Tech YouTuber
-1. <https://www.youtube.com/watch?v=Yfs4kCG-nNA> - Software Engineering Job Tips From A Google Recruiter (Clement and Amy) 
-11. <https://www.youtube.com/watch?v=1rAWA6CsAGU> - Negotiating your offer (Clement and Amy)  
-12. <https://www.youtube.com/watch?v=IV30jAw7dxA> - How to Answer Behavioral Interview Questions Sample Answers (7 min)
-13. <https://www.youtube.com/watch?v=ld0cvWnrVsU> - Cracking the Behavioral Interview for Software Developers (8 min)
+11. <https://www.youtube.com/watch?v=Yfs4kCG-nNA> - Software Engineering Job Tips From A Google Recruiter (Clement and Amy)
+12. <https://www.youtube.com/watch?v=1rAWA6CsAGU> - Negotiating your offer (Clement and Amy)
+13. <https://www.youtube.com/watch?v=IV30jAw7dxA> - How to Answer Behavioral Interview Questions Sample Answers (7 min)
+14. <https://www.youtube.com/watch?v=ld0cvWnrVsU> - Cracking the Behavioral Interview for Software Developers (8 min)

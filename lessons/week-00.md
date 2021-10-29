@@ -47,7 +47,7 @@ There's a lot of video content here, remember that you can watch or listen at 2x
 
 - How to be a millionaire (TechLead) <https://www.youtube.com/watch?v=AbUU-D2Hil0>
 - Negotiate your salary (Mayuko) <https://www.youtube.com/watch?v=a8DptwIC_MQ>
-- You go tthe offer (Pragmatic Engineer) <https://www.youtube.com/watch?v=s75AeaTt0UM>
+- You got the offer (Pragmatic Engineer) <https://www.youtube.com/watch?v=s75AeaTt0UM>
 
 ## Homework
 

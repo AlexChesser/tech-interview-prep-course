@@ -4,18 +4,20 @@
 
 ### Day 01 - Binary Search
 
+**Problems**
+
+- `704. Binary Search`
+- `278. First Bad Version`
+- `35. Search Insert Position`
+
+**Summary**
+
 - Wrote three Binary Search problems (easy)
 - Solving a binary search three ways quickly was a nice way to understand the comonalities between binary searches
 - Efficient BS split the full set of data by 2 on each iteration
 - They carry a pointer to the LOW number and the HIGH number while carrying a third pointer at the current midpoint
 - A while loop tends to be most efficient, though for some solutions recursion might result in less code, they appear to use more memory
 - Exiting the while loop requires updating the low and high on each iteration and quitting when you either find your value or meet in the middle.
-
-**Problems**
-
-- `704. Binary Search`
-- `278. First Bad Version`
-- `35. Search Insert Position`
 
 ### Day 2 - Two Pointers
 ### Day 3 - Two Pointers

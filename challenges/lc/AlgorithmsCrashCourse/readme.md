@@ -13,9 +13,9 @@
 
 **Problems**
 
-- 704. Binary Search
-- 278. First Bad Version
-- 35. Search Insert Position
+- `704. Binary Search`
+- `278. First Bad Version`
+- `35. Search Insert Position`
 
 ### Day 2 - Two Pointers
 ### Day 3 - Two Pointers

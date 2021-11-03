@@ -29,8 +29,8 @@ namespace test
             int[] haystack = arr.Split(",")
                 .Select(i => int.Parse(i))
                 .ToArray();
-            s.TwoSum(haystack, target);
-            Assert.AreEqual(expected, string.Join(",", haystack));
+            int[] result = s.TwoSum(haystack, target);
+            Assert.AreEqual(expected, string.Join(",", result));
         }
 
     }

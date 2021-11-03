@@ -1,10 +1,11 @@
-using NUnit.Framework;
-using _704_BinarySearch;
+using System;
+using System.Diagnostics;
+using System.Linq;
 using _278_FirstBadVersion;
 using _35_SearchInsertPosition;
-using System.Linq;
-using System.Diagnostics;
-using System;
+using _704_BinarySearch;
+using _977_SquaresofaSortedArray;
+using NUnit.Framework;
 
 namespace test
 {
@@ -55,5 +56,31 @@ namespace test
             int result = s.Search(haystack, target);
             Assert.AreEqual(result, expected, $"target {target} expected {expected}");
         }
+
+
+        /*
+        Input: nums = [-4,-1,0,3,10]
+        Output: [0,1,9,16,100]
+        Explanation: After squaring, the array becomes [16,1,0,9,100].
+        After sorting, it becomes [0,1,9,16,100].
+        Example 2:
+
+        Input: nums = [-7,-3,2,3,11]
+        Output: [4,9,9,49,121]
+        */
+
+        [Test]
+        [TestCase("-4,-1,0,3,10", "0,1,9,16,100")]
+        [TestCase("-7,-3,2,3,11", "4,9,9,49,121")]
+        public void _977_SquaresofaSortedArray(string arr, string expected)
+        {
+            var s = new _977_SquaresofaSortedArray.Solution();
+            int[] haystack = arr.Split(",")
+                .Select(i => int.Parse(i))
+                .ToArray();
+            int[] result = s.SortedSquares(haystack);
+            Assert.AreEqual(string.Join(",", result), expected, $"records did not match");
+        }
+
     }
 }

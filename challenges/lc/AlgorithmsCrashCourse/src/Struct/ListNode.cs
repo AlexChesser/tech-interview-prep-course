@@ -30,6 +30,10 @@ public class ListNode
 
     public static string AsString(ListNode head)
     {
+        if (head == null)
+        {
+            return "";
+        }
         string output = head.val.ToString();
         ListNode tmp = head.next;
         while (tmp != null)

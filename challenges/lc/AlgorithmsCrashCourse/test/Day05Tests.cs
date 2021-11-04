@@ -11,14 +11,17 @@ namespace test
 
         [Test]
         [TestCase("1,2,3,4,5", 2, "1,2,3,5")]
+        [TestCase("1,2,3,4,5", 3, "1,2,4,5")]
         [TestCase("1", 1, "")]
         [TestCase("1,2", 1, "1")]
-        public void _19_Remove_Nth_Node_From_End_of_List(string arr, string expected)
+        [TestCase("1,2", 2, "2")]
+        [TestCase("1,2,3", 3, "2,3")]
+        public void _19_Remove_Nth_Node_From_End_of_List(string arr, int target, string expected)
         {
             var s = new _19_Remove_Nth_Node_From_End_of_List.Solution();
-            char[] haystack = arr.ToCharArray();
-            // s.RemoveNthFromEnd;
-            Assert.AreEqual(expected, string.Join("", haystack));
+            ListNode head = ListNode.Create(arr);
+            ListNode result = s.RemoveNthFromEnd(head, target);
+            Assert.AreEqual(expected, ListNode.AsString(result));
         }
 
         [Test]

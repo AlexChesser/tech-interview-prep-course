@@ -10,9 +10,9 @@ namespace test
 
 
         [Test]
-        [TestCase("hello", "olleh")]
-        [TestCase("Hannah", "hannaH")]
-        [TestCase("A man, a plan, a canal: Panama", "amanaP :lanac a ,nalp a ,nam A")]
+        [TestCase("1,2,3,4,5", 2, "1,2,3,5")]
+        [TestCase("1", 1, "")]
+        [TestCase("1,2", 1, "1")]
         public void _19_Remove_Nth_Node_From_End_of_List(string arr, string expected)
         {
             var s = new _19_Remove_Nth_Node_From_End_of_List.Solution();
@@ -23,13 +23,15 @@ namespace test
 
         [Test]
 
-        [TestCase("Let's take LeetCode contest", "s'teL ekat edoCteeL tsetnoc")]
-        [TestCase("God Ding", "doG gniD")]
+        [TestCase("1,2,3,4,5", "3,4,5")]
+        [TestCase("1,2,3,4,5,6", "4,5,6")]
         public void _876_Middle_of_the_Linked_List(string arr, string expected)
         {
             var s = new _876_Middle_of_the_Linked_List.Solution();
-            //string result = s.MiddleNode(arr);
-            //Assert.AreEqual(expected, result);
+            ListNode head = ListNode.Create(arr);
+            Debug.WriteLine(ListNode.AsString(head));
+            var result = s.MiddleNode(head);
+            Assert.AreEqual(expected, ListNode.AsString(result));
         }
 
     }

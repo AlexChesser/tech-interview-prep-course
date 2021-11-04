@@ -3,25 +3,40 @@ using System.Diagnostics;
 
 namespace _876_Middle_of_the_Linked_List
 {
-    /**
-     * Definition for singly-linked list. */
-    public class ListNode
-    {
-        public int val;
-        public ListNode next;
-        public ListNode(int val = 0, ListNode next = null)
-        {
-            this.val = val;
-            this.next = next;
-        }
-    }
-
-
     public class Solution
     {
+        public ListNode MiddleNode_wrong_but_close(ListNode head)
+        {
+            ListNode mid = head;
+            ListNode seek = head;
+            int counter = 0;
+            int target = 0;
+            while (seek.next != null)
+            {
+                counter++;
+                if (counter >= target)
+                {
+                    mid = seek;
+                    target *= 2;
+                }
+                seek = seek.next;
+            }
+            return mid;
+        }
+
+
         public ListNode MiddleNode(ListNode head)
         {
-            return default;
+            ListNode mid = head;
+            ListNode seek = head;
+            ListNode slow = head, fast = head;
+            while (fast != null && fast.next != null)
+            {
+                slow = slow.next;
+                fast = fast.next.next;
+            }
+            return slow;
         }
+
     }
 }

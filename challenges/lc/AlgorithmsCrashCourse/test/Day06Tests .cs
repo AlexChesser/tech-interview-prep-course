@@ -26,6 +26,8 @@ namespace test
         [TestCase("ab", "eidboaoo", false)]
         [TestCase("ba", "eidbaaboo", true)]
         [TestCase("adc", "dcda", true)]
+        [TestCase("a", "ab", true)]
+        [TestCase("b", "ab", true)]
         public void _567_Permutation_in_String(string s1, string s2, bool expected)
         {
             var s = new _567_Permutation_in_String.Solution();

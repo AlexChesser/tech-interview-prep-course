@@ -7,29 +7,30 @@ namespace test
     public class Day06Tests : TestTemplate
     {
 
-
-
         [Test]
-        [TestCase("hello", "olleh")]
-        [TestCase("Hannah", "hannaH")]
-        [TestCase("A man, a plan, a canal: Panama", "amanaP :lanac a ,nalp a ,nam A")]
-        public void _3_LongestSubstringWithoutRepeatingCharacters(string arr, string expected)
+        [TestCase("abcabcbb", 3)]
+        [TestCase("bbbbb", 1)]
+        [TestCase("pwwkew", 3)]
+        [TestCase("", 0)]
+        [TestCase("aab", 2)]
+        [TestCase("qrsvbspk", 5)]
+        public void _3_LongestSubstringWithoutRepeatingCharacters(string arr, int expected)
         {
             var s = new _3_LongestSubstringWithoutRepeatingCharacters.Solution();
-            char[] haystack = arr.ToCharArray();
-            // s.RemoveNthFromEnd;
-            Assert.AreEqual(expected, string.Join("", haystack));
+            int result = s.LengthOfLongestSubstring(arr);
+            Assert.AreEqual(expected, result);
         }
 
         [Test]
-
-        [TestCase("Let's take LeetCode contest", "s'teL ekat edoCteeL tsetnoc")]
-        [TestCase("God Ding", "doG gniD")]
-        public void _567_Permutation_in_String(string arr, string expected)
+        [TestCase("ab", "eidbaooo", true)]
+        [TestCase("ab", "eidboaoo", false)]
+        [TestCase("ba", "eidbaaboo", true)]
+        [TestCase("adc", "dcda", true)]
+        public void _567_Permutation_in_String(string s1, string s2, bool expected)
         {
             var s = new _567_Permutation_in_String.Solution();
-            //string result = s.MiddleNode(arr);
-            //Assert.AreEqual(expected, result);
+            bool result = s.CheckInclusion(s1, s2);
+            Assert.AreEqual(expected, result);
         }
 
     }

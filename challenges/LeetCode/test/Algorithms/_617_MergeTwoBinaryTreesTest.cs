@@ -4,7 +4,7 @@ using NUnit.Framework;
 
 namespace test
 {
-    partial class DataStructuresTests : TestTemplate
+    partial class AlgorithmsTests : TestTemplate
     {
 
         [Test]

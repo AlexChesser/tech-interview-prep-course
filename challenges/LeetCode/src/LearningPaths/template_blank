@@ -1,0 +1,10 @@
+namespace replaceme
+{
+    public class Solution
+    {
+        public void FUNCTION()
+        {
+
+        }
+    }
+}

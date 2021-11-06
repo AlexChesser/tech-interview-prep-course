@@ -2,9 +2,9 @@ namespace  _746_MinCostClimbingStairs
 {
     public class Solution
     {
-        public void FUNCTION()
+        public int MinCostClimbingStairs(int[] cost)
         {
-
+            return default;
         }
     }
 }

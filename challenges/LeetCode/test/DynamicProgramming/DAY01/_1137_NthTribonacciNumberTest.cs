@@ -8,13 +8,16 @@ namespace test
     {
 
         [Test]
-        [TestCase("foo", "bar")]
-        public void _1137_NthTribonacciNumber(string arr, string expected)
+
+        [TestCase(4, 4)]
+        [TestCase(25, 1389537)]
+
+
+        public void _1137_NthTribonacciNumber(int arr, int expected)
         {
             var s = new _1137_NthTribonacciNumber.Solution();
-            //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            int result = s.Tribonacci(arr);
+            Assert.AreEqual(expected, result);
         }
     }
 }

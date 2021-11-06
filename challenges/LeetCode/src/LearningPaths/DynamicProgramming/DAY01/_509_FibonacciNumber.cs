@@ -2,9 +2,9 @@ namespace  _509_FibonacciNumber
 {
     public class Solution
     {
-        public void FUNCTION()
+        public int Fib(int n)
         {
-
+            return default;
         }
     }
 }

@@ -2,9 +2,9 @@ namespace _70_ClimbingStairsDP
 {
     public class Solution
     {
-        public void FUNCTION()
+        public int ClimbStairs(int n)
         {
-
+            return default;
         }
     }
 }

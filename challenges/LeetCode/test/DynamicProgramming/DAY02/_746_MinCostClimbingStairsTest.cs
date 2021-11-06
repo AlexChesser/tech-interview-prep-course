@@ -8,13 +8,13 @@ namespace test
     {
 
         [Test]
-        [TestCase("foo", "bar")]
-        public void _746_MinCostClimbingStairs(string arr, string expected)
+        [TestCase("10,15,20", 15)]
+        [TestCase("1,100,1,1,1,100,1,1,100,1", 6)]
+        public void _746_MinCostClimbingStairs(string arr, int expected)
         {
             var s = new _746_MinCostClimbingStairs.Solution();
-            //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            int result = s.MinCostClimbingStairs(arr.ToIntArray());
+            Assert.AreEqual(expected, result);
         }
     }
 }

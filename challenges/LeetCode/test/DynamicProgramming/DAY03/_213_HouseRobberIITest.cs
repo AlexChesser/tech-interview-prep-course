@@ -6,8 +6,6 @@ namespace test
 {
     partial class DynamicProgrammingTests : TestTemplate
     {
-
-
         /*
         You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed. All houses at this place are arranged in a circle. That means the first house is the neighbor of the last one. Meanwhile, adjacent houses have a security system connected, and it will automatically contact the police if two adjacent houses were broken into on the same night.
 
@@ -29,10 +27,7 @@ namespace test
 
         Input: nums = [1,2,3]
         Output: 3
-
-
         */
-
         [Test]
         [TestCase("[2,3,2]", 3)]
         [TestCase("[1,2,3,1]", 4)]

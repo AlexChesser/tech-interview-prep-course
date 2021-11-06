@@ -2,9 +2,9 @@ namespace _217_ContainsDuplicate
 {
     public class Solution
     {
-        public void FUNCTION()
+        public bool ContainsDuplicate(int[] nums)
         {
-
+            return default;
         }
     }
 }

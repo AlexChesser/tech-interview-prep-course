@@ -1,10 +1,10 @@
-namespace _53_MaximumSubarrayDS
+namespace _53_MaximumSubarray
 {
     public class Solution
     {
-        public void FUNCTION()
+        public int MaxSubArray(int[] nums)
         {
-
+            return default;
         }
     }
 }

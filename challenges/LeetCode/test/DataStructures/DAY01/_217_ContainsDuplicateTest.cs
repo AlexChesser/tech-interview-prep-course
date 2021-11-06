@@ -8,13 +8,14 @@ namespace test
     {
 
         [Test]
-        [TestCase("foo", "bar")]
+        [TestCase("1,2,3,1", true)]
+        [TestCase("1,2,3,4", false)]
+        [TestCase("1,1,1,3,3,4,3,2,4,2", true)]
         public void _217_ContainsDuplicate(string arr, string expected)
         {
             var s = new _217_ContainsDuplicate.Solution();
-            //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            bool result = s.ContainsDuplicate(arr.Split(",").Select(c => int.Parse(c)).ToArray());
+            Assert.AreEqual(expected, result);
         }
     }
 }

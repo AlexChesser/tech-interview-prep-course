@@ -1,4 +1,4 @@
-namespace  _53_MaximumSubarray
+namespace _53_MaximumSubarrayDP
 {
     public class Solution
     {

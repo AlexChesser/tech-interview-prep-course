@@ -9,9 +9,9 @@ namespace test
 
         [Test]
         [TestCase("foo", "bar")]
-        public void _116_PopulatingNextRightPointersInEachNode(string arr, string expected)
+        public void _116_PopulatingNextRightPointersinEachNode(string arr, string expected)
         {
-            var s = new _116_PopulatingNextRightPointersInEachNode.Solution();
+            var s = new _116_PopulatingNextRightPointersinEachNode.Solution();
             //int result = s.LengthOfLongestSubstring(arr);
             //Assert.AreEqual(expected, result);
             Assert.Pass();

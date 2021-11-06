@@ -8,13 +8,13 @@ namespace test
     {
 
         [Test]
-        [TestCase("foo", "bar")]
-        public void _121_BestTimetoBuyandSellStock(string arr, string expected)
+        [TestCase("[7,1,5,3,6,4]", 5)]
+        [TestCase("[7,6,5,4,3,1]", 0)]
+        public void _121_BestTimetoBuyandSellStock(string arr, int expected)
         {
             var s = new _121_BestTimetoBuyandSellStock.Solution();
-            //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            int result = s.MaxProfit(arr.ToIntArray());
+            Assert.AreEqual(expected, result);
         }
     }
 }

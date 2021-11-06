@@ -10,7 +10,11 @@ public static class CourseExtensionMethods
         {
             return new int[] { };
         }
-        return str.Split(",").Select(c => int.Parse(c)).ToArray();
+        return str.Replace("[", "")
+            .Replace("]", "")
+            .Split(",")
+            .Select(c => int.Parse(c))
+            .ToArray();
     }
 
     public static int[][] ToMultiDimensionalArray(this string str)

@@ -10,7 +10,7 @@ namespace test
         [TestCase("-2,1,-3,4,-1,2,1,-5,4", 6)]
         [TestCase("1", 1)]
         [TestCase("5,4,-1,7,8", 23)]
-        public void _53_MaximumSubarray(string arr, string expected)
+        public void _53_MaximumSubarray(string arr, int expected)
         {
             var s = new _53_MaximumSubarray.Solution();
             int result = s.MaxSubArray(arr.ToIntArray());

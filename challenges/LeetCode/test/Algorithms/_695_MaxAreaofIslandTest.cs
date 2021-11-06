@@ -8,13 +8,16 @@ namespace test
     {
 
         [Test]
-        [TestCase("foo", "bar")]
-        public void _695_MaxAreaofIsland(string arr, string expected)
+        [TestCase("[[0,0,1,0,0,0,0,1,0,0,0,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,1,1,0,1,0,0,0,0,0,0,0,0],[0,1,0,0,1,1,0,0,1,0,1,0,0],[0,1,0,0,1,1,0,0,1,1,1,0,0],[0,0,0,0,0,0,0,0,0,0,1,0,0],[0,0,0,0,0,0,0,1,1,1,0,0,0],[0,0,0,0,0,0,0,1,1,0,0,0,0]]", 6)]
+        [TestCase("[[0,0,0,0,0,0,0,0]]", 0)]
+        [TestCase("[[1,1,0,0,0],[1,1,0,0,0],[0,0,0,1,1],[0,0,0,1,1]]", 4)]
+
+        public void _695_MaxAreaofIsland(string arr, int expected)
         {
             var s = new _695_MaxAreaofIsland.Solution();
-            //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            int result = s.MaxAreaOfIsland(arr.ToMultiDimensionalArray());
+            Assert.AreEqual(expected, result);
+
         }
     }
 }

@@ -57,8 +57,8 @@ namespace test
         */
 
         [Test]
-        [TestCase("1,2,3,0,0,0", 3, "2,5,6", 3, "1,2,2,3,5,6")]
-        [TestCase("1", 1, "", 0, "1")]
+        // [TestCase("1,2,3,0,0,0", 3, "2,5,6", 3, "1,2,2,3,5,6")]
+        // [TestCase("1", 1, "", 0, "1")]
         [TestCase("0", 0, "1", 1, "1")]
         public void _88_MergeSortedArray(string arr1, int m, string arr2, int n, string expected)
         {

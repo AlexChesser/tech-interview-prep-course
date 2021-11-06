@@ -1,10 +1,10 @@
 namespace _994_RottingOranges
 {
-    public class Solution
+public class Solution
     {
-        public void FUNCTION()
+        public int OrangesRotting(int[][] grid)
         {
-
+return default;
         }
     }
 }

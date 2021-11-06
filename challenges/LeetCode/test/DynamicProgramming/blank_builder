@@ -1,0 +1,72 @@
+cp ../DataStructures/test_template_blank _509_FibonacciNumberTest.cs && sed -i -E "s/REPLACEME/_509_FibonacciNumber/"  _509_FibonacciNumberTest.cs
+cp ../DataStructures/test_template_blank _1137_NthTribonacciNumberTest.cs && sed -i -E "s/REPLACEME/_1137_NthTribonacciNumber/"  _1137_NthTribonacciNumberTest.cs
+cp ../DataStructures/test_template_blank _70_ClimbingStairsTest.cs && sed -i -E "s/REPLACEME/_70_ClimbingStairs/"  _70_ClimbingStairsTest.cs
+cp ../DataStructures/test_template_blank _746_MinCostClimbingStairsTest.cs && sed -i -E "s/REPLACEME/_746_MinCostClimbingStairs/"  _746_MinCostClimbingStairsTest.cs
+cp ../DataStructures/test_template_blank _198_HouseRobberTest.cs && sed -i -E "s/REPLACEME/_198_HouseRobber/"  _198_HouseRobberTest.cs
+cp ../DataStructures/test_template_blank _213_HouseRobberIITest.cs && sed -i -E "s/REPLACEME/_213_HouseRobberII/"  _213_HouseRobberIITest.cs
+cp ../DataStructures/test_template_blank _740_DeleteandEarnTest.cs && sed -i -E "s/REPLACEME/_740_DeleteandEarn/"  _740_DeleteandEarnTest.cs
+cp ../DataStructures/test_template_blank _55_JumpGameTest.cs && sed -i -E "s/REPLACEME/_55_JumpGame/"  _55_JumpGameTest.cs
+cp ../DataStructures/test_template_blank _45_JumpGameIITest.cs && sed -i -E "s/REPLACEME/_45_JumpGameII/"  _45_JumpGameIITest.cs
+cp ../DataStructures/test_template_blank _53_MaximumSubarrayTest.cs && sed -i -E "s/REPLACEME/_53_MaximumSubarray/"  _53_MaximumSubarrayTest.cs
+cp ../DataStructures/test_template_blank _918_MaximumSumCircularSubarrayTest.cs && sed -i -E "s/REPLACEME/_918_MaximumSumCircularSubarray/"  _918_MaximumSumCircularSubarrayTest.cs
+cp ../DataStructures/test_template_blank _152_MaximumProductSubarrayTest.cs && sed -i -E "s/REPLACEME/_152_MaximumProductSubarray/"  _152_MaximumProductSubarrayTest.cs
+cp ../DataStructures/test_template_blank _1567_MaximumLengthofSubarrayWithPositiveProductTest.cs && sed -i -E "s/REPLACEME/_1567_MaximumLengthofSubarrayWithPositiveProduct/"  _1567_MaximumLengthofSubarrayWithPositiveProductTest.cs
+cp ../DataStructures/test_template_blank _1014_BestSightseeingPairTest.cs && sed -i -E "s/REPLACEME/_1014_BestSightseeingPair/"  _1014_BestSightseeingPairTest.cs
+cp ../DataStructures/test_template_blank _121_BestTimetoBuyandSellStockTest.cs && sed -i -E "s/REPLACEME/_121_BestTimetoBuyandSellStock/"  _121_BestTimetoBuyandSellStockTest.cs
+cp ../DataStructures/test_template_blank _122_BestTimetoBuyandSellStockIITest.cs && sed -i -E "s/REPLACEME/_122_BestTimetoBuyandSellStockII/"  _122_BestTimetoBuyandSellStockIITest.cs
+cp ../DataStructures/test_template_blank _309_BestTimetoBuyandSellStockwithCooldownTest.cs && sed -i -E "s/REPLACEME/_309_BestTimetoBuyandSellStockwithCooldown/"  _309_BestTimetoBuyandSellStockwithCooldownTest.cs
+cp ../DataStructures/test_template_blank _714_BestTimetoBuyandSellStockwithTransactionFeeTest.cs && sed -i -E "s/REPLACEME/_714_BestTimetoBuyandSellStockwithTransactionFee/"  _714_BestTimetoBuyandSellStockwithTransactionFeeTest.cs
+cp ../DataStructures/test_template_blank _139_WordBreakTest.cs && sed -i -E "s/REPLACEME/_139_WordBreak/"  _139_WordBreakTest.cs
+cp ../DataStructures/test_template_blank _42_TrappingRainWaterTest.cs && sed -i -E "s/REPLACEME/_42_TrappingRainWater/"  _42_TrappingRainWaterTest.cs
+cp ../DataStructures/test_template_blank _413_ArithmeticSlicesTest.cs && sed -i -E "s/REPLACEME/_413_ArithmeticSlices/"  _413_ArithmeticSlicesTest.cs
+cp ../DataStructures/test_template_blank _91_DecodeWaysTest.cs && sed -i -E "s/REPLACEME/_91_DecodeWays/"  _91_DecodeWaysTest.cs
+cp ../DataStructures/test_template_blank _264_UglyNumberIITest.cs && sed -i -E "s/REPLACEME/_264_UglyNumberII/"  _264_UglyNumberIITest.cs
+cp ../DataStructures/test_template_blank _96_UniqueBinarySearchTreesTest.cs && sed -i -E "s/REPLACEME/_96_UniqueBinarySearchTrees/"  _96_UniqueBinarySearchTreesTest.cs
+cp ../DataStructures/test_template_blank _118_PascalsTriangleTest.cs && sed -i -E "s/REPLACEME/_118_PascalsTriangle/"  _118_PascalsTriangleTest.cs
+cp ../DataStructures/test_template_blank _119_PascalsTriangleIITest.cs && sed -i -E "s/REPLACEME/_119_PascalsTriangleII/"  _119_PascalsTriangleIITest.cs
+cp ../DataStructures/test_template_blank _931_MinimumFallingPathSumTest.cs && sed -i -E "s/REPLACEME/_931_MinimumFallingPathSum/"  _931_MinimumFallingPathSumTest.cs
+cp ../DataStructures/test_template_blank _120_TriangleTest.cs && sed -i -E "s/REPLACEME/_120_Triangle/"  _120_TriangleTest.cs
+cp ../DataStructures/test_template_blank _1314_MatrixBlockSumTest.cs && sed -i -E "s/REPLACEME/_1314_MatrixBlockSum/"  _1314_MatrixBlockSumTest.cs
+cp ../DataStructures/test_template_blank _304_RangeSumQuery2DImmutableTest.cs && sed -i -E "s/REPLACEME/_304_RangeSumQuery2DImmutable/"  _304_RangeSumQuery2DImmutableTest.cs
+cp ../DataStructures/test_template_blank _62_UniquePathsTest.cs && sed -i -E "s/REPLACEME/_62_UniquePaths/"  _62_UniquePathsTest.cs
+cp ../DataStructures/test_template_blank _63_UniquePathsIITest.cs && sed -i -E "s/REPLACEME/_63_UniquePathsII/"  _63_UniquePathsIITest.cs
+cp ../DataStructures/test_template_blank _64_MinimumPathSumTest.cs && sed -i -E "s/REPLACEME/_64_MinimumPathSum/"  _64_MinimumPathSumTest.cs
+cp ../DataStructures/test_template_blank _221_MaximalSquareTest.cs && sed -i -E "s/REPLACEME/_221_MaximalSquare/"  _221_MaximalSquareTest.cs
+cp ../DataStructures/test_template_blank _5_LongestPalindromicSubstringTest.cs && sed -i -E "s/REPLACEME/_5_LongestPalindromicSubstring/"  _5_LongestPalindromicSubstringTest.cs
+cp ../DataStructures/test_template_blank _516_LongestPalindromicSubsequenceTest.cs && sed -i -E "s/REPLACEME/_516_LongestPalindromicSubsequence/"  _516_LongestPalindromicSubsequenceTest.cs
+cp ../DataStructures/test_template_blank _300_LongestIncreasingSubsequenceTest.cs && sed -i -E "s/REPLACEME/_300_LongestIncreasingSubsequence/"  _300_LongestIncreasingSubsequenceTest.cs
+cp ../DataStructures/test_template_blank _376_WiggleSubsequenceTest.cs && sed -i -E "s/REPLACEME/_376_WiggleSubsequence/"  _376_WiggleSubsequenceTest.cs
+cp ../DataStructures/test_template_blank _392_IsSubsequenceTest.cs && sed -i -E "s/REPLACEME/_392_IsSubsequence/"  _392_IsSubsequenceTest.cs
+cp ../DataStructures/test_template_blank _1143_LongestCommonSubsequenceTest.cs && sed -i -E "s/REPLACEME/_1143_LongestCommonSubsequence/"  _1143_LongestCommonSubsequenceTest.cs
+cp ../DataStructures/test_template_blank _72_EditDistanceTest.cs && sed -i -E "s/REPLACEME/_72_EditDistance/"  _72_EditDistanceTest.cs
+cp ../DataStructures/test_template_blank _322_CoinChangeTest.cs && sed -i -E "s/REPLACEME/_322_CoinChange/"  _322_CoinChangeTest.cs
+cp ../DataStructures/test_template_blank _518_CoinChange2Test.cs && sed -i -E "s/REPLACEME/_518_CoinChange2/"  _518_CoinChange2Test.cs
+cp ../DataStructures/test_template_blank _377_CombinationSumIVTest.cs && sed -i -E "s/REPLACEME/_377_CombinationSumIV/"  _377_CombinationSumIVTest.cs
+cp ../DataStructures/test_template_blank _343_IntegerBreakTest.cs && sed -i -E "s/REPLACEME/_343_IntegerBreak/"  _343_IntegerBreakTest.cs
+cp ../DataStructures/test_template_blank _279_PerfectSquaresTest.cs && sed -i -E "s/REPLACEME/_279_PerfectSquares/"  _279_PerfectSquaresTest.cs
+
+
+
+mkdir DAY01 && mv -t DAY01 _509_FibonacciNumberTest.cs _1137_NthTribonacciNumberTest.cs
+mkdir DAY02 && mv -t DAY02 _70_ClimbingStairsTest.cs _746_MinCostClimbingStairsTest.cs
+mkdir DAY03 && mv -t DAY03 _198_HouseRobberTest.cs _213_HouseRobberIITest.cs _740_DeleteandEarnTest.cs
+mkdir DAY04 && mv -t DAY04 _55_JumpGameTest.cs _45_JumpGameIITest.cs
+mkdir DAY05 && mv -t DAY05 _53_MaximumSubarrayTest.cs _918_MaximumSumCircularSubarrayTest.cs
+mkdir DAY06 && mv -t DAY06 _152_MaximumProductSubarrayTest.cs _1567_MaximumLengthofSubarrayWithPositiveProductTest.cs
+mkdir DAY07 && mv -t DAY07 _1014_BestSightseeingPairTest.cs _121_BestTimetoBuyandSellStockTest.cs _122_BestTimetoBuyandSellStockIITest.cs
+mkdir DAY08 && mv -t DAY08 _309_BestTimetoBuyandSellStockwithCooldownTest.cs _714_BestTimetoBuyandSellStockwithTransactionFeeTest.cs
+mkdir DAY09 && mv -t DAY09 _139_WordBreakTest.cs _42_TrappingRainWaterTest.cs
+mkdir DAY10 && mv -t DAY10 _413_ArithmeticSlicesTest.cs _91_DecodeWaysTest.cs
+mkdir DAY11 && mv -t DAY11 _264_UglyNumberIITest.cs _96_UniqueBinarySearchTreesTest.cs
+mkdir DAY12 && mv -t DAY12 _118_PascalsTriangleTest.cs _119_PascalsTriangleIITest.cs
+mkdir DAY13 && mv -t DAY13 _931_MinimumFallingPathSumTest.cs _120_TriangleTest.cs
+mkdir DAY14 && mv -t DAY14 _1314_MatrixBlockSumTest.cs _304_RangeSumQuery2DImmutableTest.cs
+mkdir DAY15 && mv -t DAY15 _62_UniquePathsTest.cs _63_UniquePathsIITest.cs
+mkdir DAY16 && mv -t DAY16 _64_MinimumPathSumTest.cs _221_MaximalSquareTest.cs
+mkdir DAY17 && mv -t DAY17 _5_LongestPalindromicSubstringTest.cs _516_LongestPalindromicSubsequenceTest.cs
+mkdir DAY18 && mv -t DAY18 _300_LongestIncreasingSubsequenceTest.cs _376_WiggleSubsequenceTest.cs
+mkdir DAY19 && mv -t DAY19 _392_IsSubsequenceTest.cs _1143_LongestCommonSubsequenceTest.cs _72_EditDistanceTest.cs
+mkdir DAY20 && mv -t DAY20 _322_CoinChangeTest.cs _518_CoinChange2Test.cs
+mkdir DAY21 && mv -t DAY21 _377_CombinationSumIVTest.cs _343_IntegerBreakTest.cs _279_PerfectSquaresTest.cs
+
+

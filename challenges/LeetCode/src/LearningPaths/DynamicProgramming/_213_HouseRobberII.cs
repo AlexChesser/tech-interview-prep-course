@@ -2,9 +2,9 @@ namespace  _213_HouseRobberII
 {
     public class Solution
     {
-        public void FUNCTION()
+        public int Rob(int[] nums)
         {
-
+            return 0;
         }
     }
 }

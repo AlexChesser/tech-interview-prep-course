@@ -39,11 +39,13 @@ namespace test
         [Test]
         [TestCase("[3,4,2]", 6)]
         [TestCase("[2,2,3,3,3,4]", 9)]
+        [TestCase("[8,7,3,8,1,4,10,10,10,2]", 52)]
         public void _740_DeleteandEarn(string arr, int expected)
         {
             var s = new _740_DeleteandEarn.Solution();
             int result = s.DeleteAndEarn(arr.ToIntArray());
             Assert.AreEqual(expected, result);
         }
+
     }
 }

@@ -6,22 +6,18 @@ namespace  _213_HouseRobberII
     {
         private int RangedRob(int[] nums, int start, int finish)
         {
-            int n = nums.Length;
-            if (n == 0)
-            {
-                return 0;
-            }
-            int next, nextPlusOne;
-            nextPlusOne = 0;
-            next = nums[n - 1];
+            int t1 = 0;
+            int t2 = 0;
 
-            for (int i = start; i < finish; --i)
+            for (int i = start; i <= finish; i++)
             {
-                int current = Math.Max(next, nextPlusOne + nums[i]);
-                nextPlusOne = next;
-                next = current;
+                int temp = t1;
+                int current = nums[i];
+                t1 = Math.Max(current + t2, t1);
+                t2 = temp;
             }
-            return next;
+
+            return t1;
         }
 
         public int Rob(int[] nums)

@@ -1,23 +1,20 @@
-using System.Diagnostics;
-using System.Linq;
-using NUnit.Framework;
-
-namespace test
+namespace _1_TwoSum
 {
-    partial class DataStructuresTests : TestTemplate
+    public class Solution
     {
-
-        [Test]
-        [TestCase("2,7,11,15", 9, "0,1")]
-        [TestCase("3,2,4", 6, "1,2")]
-        [TestCase("3,3", 6, "0,1")]
-        public void _1_TwoSum(string arr, int target, string expected)
+        public int[] TwoSum(int[] nums, int target)
         {
-            var s = new _1_TwoSum.Solution();
-            int[] value = arr.Split(",").Select(c => int.Parse(c)).ToArray();
-            var result = s.TwoSum(value, target);
-            Assert.AreEqual(expected, string.Join(",", result));
-            Assert.Pass();
+            for (int i = 0; i < nums.Length; i++)
+            {
+                for (int j = i + 1; j < nums.Length; j++)
+                {
+                    if (nums[i] + nums[j] == target)
+                    {
+                        return new int[] { i, j };
+                    }
+                }
+            }
+            return new int[0];
         }
     }
 }

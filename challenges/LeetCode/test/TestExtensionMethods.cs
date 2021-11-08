@@ -1,3 +1,4 @@
+using System;
 using System.Diagnostics;
 using System.Linq;
 using NUnit.Framework;
@@ -27,6 +28,14 @@ namespace test
             string input = "[[1,1,1],[1,1,1],[1,1,1]]";
             int[][] result = input.ToMultiDimensionalArray();
             Assert.AreEqual(result.ToNestedString(), input);
+        }
+
+        [Test]
+        public void WillBuildBinaryTree()
+        {
+            string input = "1,2,3,4,5,6,7,8,9";
+            TreeNode result = input.ToIntArray().ToBinaryTree();
+            Assert.AreEqual(input, result.CommaJoin());
         }
     }
 }

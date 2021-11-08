@@ -7,6 +7,7 @@ namespace  _740_DeleteandEarn
 {
     public class Solution
     {
+        // TODO: try this one again
         public int DeleteAndEarn(int[] nums)
         {
             int[] count = new int[10001];

@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -13,8 +14,50 @@ public static class CourseExtensionMethods
         return str.Replace("[", "")
             .Replace("]", "")
             .Split(",")
-            .Select(c => int.Parse(c))
+            .Select(c =>
+            {
+                if (!int.TryParse(c, out int result))
+                {
+                    return 0;
+                };
+                return result;
+            })
             .ToArray();
+    }
+
+
+
+    public static TreeNode ToBinaryTree(this int[] arr)
+    {
+        TreeNode AddInOrder(int[] arr, TreeNode root, int i)
+        {
+            // Base case for recursion
+            if (i < arr.Length)
+            {
+                TreeNode temp = new TreeNode(arr[i]);
+                root = temp;
+                int firstLeaf = 2 * i + 1;
+                root.left = (firstLeaf < arr.Length) ? AddInOrder(arr, root.left, 2 * i + 1) : null;
+                root.right = (firstLeaf + 1 < arr.Length) ? AddInOrder(arr, root.right, 2 * i + 2) : null;
+            }
+            return root;
+        }
+        return AddInOrder(arr, new TreeNode(), 0);
+    }
+
+    public static string CommaJoin(this TreeNode tree)
+    {
+        Queue<TreeNode> queue = new Queue<TreeNode>();
+        queue.Enqueue(tree);
+        List<int> values = new List<int>();
+        while (queue.Count > 0)
+        {
+            TreeNode current = queue.Dequeue();
+            if (current.left != null) queue.Enqueue(current.left);
+            if (current.right != null) queue.Enqueue(current.right);
+            values.Add(current.val);
+        }
+        return values.ToArray().CommaJoin();
     }
 
     public static int[][] ToMultiDimensionalArray(this string str)

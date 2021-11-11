@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Linq;
 
 namespace _242_ValidAnagram
@@ -22,9 +23,30 @@ namespace _242_ValidAnagram
             {
                 return false;
             }
-            s = string.Join("", s.ToCharArray().OrderBy(c => c));
-            t = string.Join("", t.ToCharArray().OrderBy(c => c));
-            return s == t;
+            Dictionary<char, int> chars = new Dictionary<char, int>();
+            foreach (char c in s.ToCharArray())
+            {
+                if (!chars.ContainsKey(c))
+                {
+                    chars.Add(c, 1);
+                }
+                else
+                {
+                    chars[c]++;
+                }
+            }
+            foreach (char c in t.ToCharArray())
+            {
+                if (!chars.ContainsKey(c))
+                {
+                    return false;
+                }
+                if (--chars[c] <= 0)
+                {
+                    chars.Remove(c);
+                }
+            }
+            return true;
         }
     }
 }

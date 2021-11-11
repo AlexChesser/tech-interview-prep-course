@@ -14,6 +14,10 @@ public class ListNode
 
     public static ListNode Create(string commaSepartatedValues)
     {
+        if (commaSepartatedValues.Length == 0)
+        {
+            return null;
+        }
         int[] values = commaSepartatedValues
             .Split(",")
             .Select(c => int.Parse(c))

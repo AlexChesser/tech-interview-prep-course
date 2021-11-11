@@ -13,8 +13,7 @@ namespace test
         {
             var s = new _141_LinkedListCycle.Solution();
             //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            Assert.Inconclusive("could write this test easily enough but it is late and I'm a bit tired :)");
         }
     }
 }

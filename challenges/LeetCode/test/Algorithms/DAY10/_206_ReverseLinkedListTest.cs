@@ -8,13 +8,14 @@ namespace test
     {
 
         [Test]
-        [TestCase("foo", "bar")]
+        [TestCase("1,2,3,4,5", "5,4,3,2,1")]
+        [TestCase("1,2", "2,1")]
+        [TestCase("", "")]
         public void _206_ReverseLinkedList(string arr, string expected)
         {
             var s = new _206_ReverseLinkedList.Solution();
-            //int result = s.LengthOfLongestSubstring(arr);
-            //Assert.AreEqual(expected, result);
-            Assert.Pass();
+            ListNode result = s.ReverseList(ListNode.Create(arr));
+            Assert.AreEqual(expected, ListNode.AsString(result));
         }
     }
 }

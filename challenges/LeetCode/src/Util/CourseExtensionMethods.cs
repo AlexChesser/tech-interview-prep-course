@@ -71,6 +71,17 @@ public static class CourseExtensionMethods
         return n.ToArray();
     }
 
+    public static char[][] ToMultiDimensionalCharArray(this string str)
+    {
+        Regex rxp = new Regex("\\[([0-9\\.,]+?)\\]", RegexOptions.Compiled);
+        List<char[]> n = new List<char[]>();
+        foreach (Match match in rxp.Matches(str))
+        {
+            n.Add(match.Groups[1].ToString().Replace(",", "").ToCharArray());
+        }
+        return n.ToArray();
+    }
+
     public static string ToNestedString(this int[][] arr)
     {
         return $"[{string.Join(",", arr.Select(inner => $"[{inner.CommaJoin()}]"))}]";

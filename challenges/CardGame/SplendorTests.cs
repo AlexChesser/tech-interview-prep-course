@@ -78,5 +78,4 @@ public class SplendorTests
         Assert.AreEqual(Color.BLUE, s.player.Cards[0].Color);
         Assert.AreEqual(Color.BLUE, s.player.Cards[1].Color);
     }
-
 }

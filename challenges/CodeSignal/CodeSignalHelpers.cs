@@ -27,36 +27,30 @@ using Newtonsoft.Json;
 
 public class Solution
 {
-    public class Answer
-    {
-        public string Ack()
-        {
+    public class Answer {
+        public string Ack() {
             return "ack";
         }
     }
-
-    public class AnswerTests
-    {
+    
+    public class AnswerTests {
 
         [Test]
-        public void TestToIntArrayExpectFailure()
-        {
+        public void TestToIntArrayExpectFailure(){
             string input = "0,1,2,3,4";
             int[] output = input.ToIntArray();
             Assert.IsTrue(output.Length == 6 && output[1] == 1, "don't cry, this test was supposed to fail");
         }
-
+        
         [Test]
-        public void TestToIntArray()
-        {
+        public void TestToIntArray(){
             string input = "0,1,2,3,4,5";
             int[] output = input.ToIntArray();
             Assert.IsTrue(output.Length == 6 && output[1] == 1, "this was supposed to create an array");
         }
 
         [Test]
-        public void Test_Ack()
-        {
+        public void Test_Ack(){
             Answer a = new Answer();
             Assert.IsTrue(a.Ack() == "ack", "expected ack");
         }
@@ -64,8 +58,7 @@ public class Solution
         [Test]
         [TestCase("foo", "bar", "baz", true, 1, 8)]
         [TestCase("foo", "bar", "baz", true, 1, 10)]
-        public void Test_TestCase(string param1, string param2, string param3, bool param4, int param5, int param6)
-        {
+        public void Test_TestCase(string param1, string param2, string param3, bool param4, int param5, int param6){
             Assert.IsTrue(param1 == "foo", "expected foo");
             Assert.IsTrue(param2 == "bar", "expected bar");
             Assert.IsTrue(param3 == "baz", "expected baz");
@@ -74,36 +67,42 @@ public class Solution
             Assert.IsTrue(param6 % 2 == 0, $"expected {param6} to be an even number");
         }
     }
-
-    public static void Main()
-    {
-        // get all methods in the assembly
-        // check for any that have a TestAttribute (custom)
-        // run them all against the answertests class
-        // ta-daaahhh!
-        MethodInfo[] methods = Assembly.GetExecutingAssembly()
+    
+    public static MethodInfo[] GetAllTests(){
+        return Assembly.GetExecutingAssembly()
             .GetTypes()
             .SelectMany(t => t.GetMethods())
             .Where(m => m.GetCustomAttributes(typeof(TestAttribute), false).Length > 0)
             .ToArray();
-        AnswerTests at = new AnswerTests();
-        foreach (MethodInfo m in methods)
-        {
-            TestCaseAttribute[] cases = m.GetCustomAttributes(typeof(TestCaseAttribute), false)
-                .Select(tca => tca as TestCaseAttribute)
-                .ToArray();
-            if (cases.Length > 0)
-            {
-                foreach (TestCaseAttribute c in cases)
-                {
-                    m.Invoke(at, BindingFlags.Default, null, c.Arguments, null);
+    }
+    
+    public static TestCaseAttribute[] GetAllTestCasesOnMethodInfo(MethodInfo m){
+        return m.GetCustomAttributes(typeof(TestCaseAttribute), false)
+            .Select(tca => tca as TestCaseAttribute)
+            .ToArray();
+    }
+    
+    public static void GetAndRunAllTests(){
+        // get all methods in the assembly
+        // check for any that have a TestAttribute (custom)
+        // run them all against the answertests class
+        // ta-daaahhh!
+        foreach(MethodInfo m in GetAllTests()){
+            ConstructorInfo testClass = m.DeclaringType.GetConstructor(System.Type.EmptyTypes);
+            TestCaseAttribute[] cases = GetAllTestCasesOnMethodInfo(m);
+            if(cases.Length > 0){
+                foreach(TestCaseAttribute c in cases){
+                    m.Invoke(testClass.Invoke(null), BindingFlags.Default, null, c.Arguments, null);
                 }
-            }
-            else
-            {
-                m.Invoke(at, BindingFlags.Default, null, null, null);
+            } else {
+                m.Invoke(testClass.Invoke(null), BindingFlags.Default, null, null, null);
             }
         }
+    }
+    
+    public static void Main()
+    {
+        GetAndRunAllTests();
     }
 }
 
@@ -115,23 +114,25 @@ public class Solution
 // the purposes of a leetcode. And really this was all just a chance to 
 // get familliar with codesignal before encountering it for the first time in a live-interview type situation.
 // (update: with a second night to prepare before the pop quiz I added another layer, parameterized unit testing! woo hoo!! I sure hope this winds up being useful)
-#region helpers
+# region helpers
 
-public static class LeetCodeExtensionMethods
-{
+public static class LeetCodeExtensionMethods {
+    
+    public static T Create<T>() where T : class, new()
+    {
+        return new T();
+    }
+    
     public static int[] ToIntArray(this string str)
     {
-        if (str.Length == 0)
-        {
+        if (str.Length == 0) {
             return new int[] { };
         }
         return str.Replace("[", "")
             .Replace("]", "")
             .Split(",")
-            .Select(c =>
-            {
-                if (!int.TryParse(c, out int result))
-                {
+            .Select(c => {
+                if (!int.TryParse(c, out int result)) {
                     return 0;
                 };
                 return result;
@@ -140,43 +141,32 @@ public static class LeetCodeExtensionMethods
     }
 }
 
-public static class Assert
-{
-    public static void IsTrue(bool condition, string failureMessage)
-    {
+public static class Assert {
+    public static void IsTrue(bool condition, string failureMessage){
         StackFrame frame = new StackFrame(1, true);
         var caller = frame.GetMethod();
-        if (!condition)
-        {
+        if(!condition){
             Console.WriteLine($"\n{caller}: 😢 {failureMessage}");
-        }
-        else
-        {
+        } else {
             Console.Write("😂");
         }
     }
 }
 
 [AttributeUsage(AttributeTargets.Method)]
-public class TestAttribute : Attribute { }
+public class TestAttribute : Attribute {}
 
-[AttributeUsage(AttributeTargets.Method, AllowMultiple = true, Inherited = false)]
-public class TestCaseAttribute : Attribute
-{
-    public object?[] Arguments { get; }
+[AttributeUsage(AttributeTargets.Method, AllowMultiple = true, Inherited=false)]
+public class TestCaseAttribute : Attribute {
+    public object?[] Arguments { get; }        
     public TestCaseAttribute(params object?[]? arguments)
     {
-        if (arguments == null)
-        {
+        if (arguments == null) {
             Arguments = new object?[] { null };
-        }
-        else
-        {
+        } else {
             Arguments = arguments;
         }
     }
 }
 
 # endregion
-
-
